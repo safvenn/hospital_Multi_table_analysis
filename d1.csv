@@ -1,0 +1,81 @@
+Doctor_ID,Name,Specialty,Experience_Years,Consultation_Fee
+D1000,Dr_0,Pediatrics,10,994
+D1001,Dr_1,Oncology,4,592
+D1002,Dr_2,Orthopedics,14,406
+D1003,Dr_3,Oncology,16,214
+D1004,Dr_4,Oncology,15,753
+D1005,Dr_5,Neurology,8,660
+D1006,Dr_6,Orthopedics,14,890
+D1007,Dr_7,Orthopedics,23,774
+D1008,Dr_8,Orthopedics,28,942
+D1009,Dr_9,Oncology,25,440
+D1010,Dr_10,Pediatrics,8,763
+D1011,Dr_11,Orthopedics,21,295
+D1012,Dr_12,General Medicine,16,933
+D1013,Dr_13,Oncology,13,684
+D1014,Dr_14,Neurology,18,606
+D1015,Dr_15,Pediatrics,15,430
+D1016,Dr_16,General Medicine,21,948
+D1017,Dr_17,General Medicine,24,854
+D1018,Dr_18,Neurology,26,370
+D1019,Dr_19,Pediatrics,25,740
+D1020,Dr_20,Oncology,28,235
+D1021,Dr_21,Cardiology,28,724
+D1022,Dr_22,Pediatrics,28,359
+D1023,Dr_23,Neurology,13,898
+D1024,Dr_24,General Medicine,9,442
+D1025,Dr_25,Oncology,29,285
+D1026,Dr_26,Pediatrics,15,995
+D1027,Dr_27,Cardiology,13,777
+D1028,Dr_28,Cardiology,1,881
+D1029,Dr_29,Orthopedics,25,756
+D1030,Dr_30,Orthopedics,7,773
+D1031,Dr_31,Neurology,9,845
+D1032,Dr_32,Pediatrics,24,995
+D1033,Dr_33,Pediatrics,1,227
+D1034,Dr_34,General Medicine,12,819
+D1035,Dr_35,General Medicine,8,755
+D1036,Dr_36,General Medicine,24,539
+D1037,Dr_37,Orthopedics,11,997
+D1038,Dr_38,Pediatrics,19,530
+D1039,Dr_39,Pediatrics,17,839
+D1040,Dr_40,Cardiology,8,705
+D1041,Dr_41,Orthopedics,3,547
+D1042,Dr_42,Oncology,3,672
+D1043,Dr_43,Orthopedics,1,430
+D1044,Dr_44,Oncology,27,389
+D1045,Dr_45,Cardiology,5,424
+D1046,Dr_46,Neurology,10,584
+D1047,Dr_47,Pediatrics,7,576
+D1048,Dr_48,Cardiology,26,482
+D1049,Dr_49,Pediatrics,9,832
+D1050,Dr_50,General Medicine,28,827
+D1051,Dr_51,Neurology,7,944
+D1052,Dr_52,Neurology,9,458
+D1053,Dr_53,Cardiology,8,558
+D1054,Dr_54,Neurology,12,909
+D1055,Dr_55,Oncology,2,655
+D1056,Dr_56,Neurology,1,610
+D1057,Dr_57,Pediatrics,16,848
+D1058,Dr_58,Pediatrics,23,517
+D1059,Dr_59,Pediatrics,23,876
+D1060,Dr_60,Pediatrics,24,424
+D1061,Dr_61,Oncology,5,433
+D1062,Dr_62,Orthopedics,3,883
+D1063,Dr_63,General Medicine,12,863
+D1064,Dr_64,Cardiology,8,573
+D1065,Dr_65,Pediatrics,22,871
+D1066,Dr_66,Neurology,27,807
+D1067,Dr_67,Pediatrics,3,671
+D1068,Dr_68,Neurology,1,432
+D1069,Dr_69,General Medicine,3,891
+D1070,Dr_70,General Medicine,5,312
+D1071,Dr_71,General Medicine,15,696
+D1072,Dr_72,Neurology,14,641
+D1073,Dr_73,Pediatrics,3,763
+D1074,Dr_74,General Medicine,1,467
+D1075,Dr_75,Oncology,5,709
+D1076,Dr_76,Neurology,26,585
+D1077,Dr_77,Neurology,23,586
+D1078,Dr_78,Pediatrics,14,312
+D1079,Dr_79,Neurology,7,812

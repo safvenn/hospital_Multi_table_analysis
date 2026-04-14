@@ -1,0 +1,1501 @@
+Patient_ID,Name,Age,Gender,City,Admission_Date,Discharge_Date,Diagnosis,Insurance_Type
+P10000,Patient_0,56,Female,Kochi,2024-10-16,2024-10-25,Diabetes,Private
+P10001,Patient_1,81,Male,Thrissur,2023-04-25,2023-05-04,Infection,Private
+P10002,Patient_2,59,Male,Kochi,2023-01-26,2023-02-01,Fracture,None
+P10003,Patient_3,2,Male,Thrissur,2023-10-09,2023-10-11,Fracture,None
+P10004,Patient_4,2,Male,Thrissur,2023-09-08,2023-09-15,Stroke,Government
+P10005,Patient_5,54,Female,Thrissur,2023-08-17,2023-08-23,Cancer,None
+P10006,Patient_6,87,Male,Kochi,2023-05-23,2023-05-30,Fracture,Government
+P10007,Patient_7,1,Male,Thrissur,2023-04-15,2023-04-16,Cardiac Issue,None
+P10008,Patient_8,19,Female,Kochi,2024-11-23,2024-11-28,Diabetes,Private
+P10009,Patient_9,2,Female,Thrissur,2024-07-12,2024-07-22,Infection,None
+P10010,Patient_10,53,Female,Kannur,2023-03-31,2023-04-05,Stroke,Private
+P10011,Patient_11,44,Male,Thrissur,2024-08-27,2024-09-02,Diabetes,Private
+P10012,Patient_12,32,Male,Trivandrum,2024-03-08,2024-03-10,Cancer,Private
+P10013,Patient_13,70,Male,Thrissur,2023-02-02,2023-02-12,Stroke,Government
+P10014,Patient_14,32,Female,Kozhikode,2023-01-31,2023-02-09,Infection,None
+P10015,Patient_15,68,Female,Thrissur,2023-04-06,2023-04-10,Infection,Private
+P10016,Patient_16,55,Male,Trivandrum,2023-08-12,2023-08-15,Cardiac Issue,Private
+P10017,Patient_17,75,Female,Trivandrum,2023-08-27,2023-09-04,Cancer,Government
+P10018,Patient_18,56,Female,Kochi,2024-06-01,2024-06-05,Stroke,None
+P10019,Patient_19,17,Female,Kannur,2024-09-08,2024-09-10,Stroke,None
+P10020,Patient_20,38,Male,Thrissur,2023-01-28,2023-02-03,Fracture,Government
+P10021,Patient_21,24,Female,Kochi,2024-07-28,2024-08-06,Cardiac Issue,Government
+P10022,Patient_22,69,Female,Kannur,2023-07-23,2023-07-29,Cardiac Issue,None
+P10023,Patient_23,70,Male,Thrissur,2024-10-27,2024-10-29,Stroke,Government
+P10024,Patient_24,86,Male,Kozhikode,2024-07-12,2024-07-17,Stroke,None
+P10025,Patient_25,11,Female,Thrissur,2024-03-05,2024-03-15,Diabetes,None
+P10026,Patient_26,16,Female,Trivandrum,2023-08-14,2023-08-18,Diabetes,Private
+P10027,Patient_27,73,Male,Trivandrum,2024-04-04,2024-04-11,Diabetes,Private
+P10028,Patient_28,59,Male,Kozhikode,2024-08-26,2024-09-04,Cardiac Issue,None
+P10029,Patient_29,70,Female,Kochi,2023-10-12,2023-10-22,Fracture,None
+P10030,Patient_30,80,Female,Kannur,2023-01-07,2023-01-17,Infection,None
+P10031,Patient_31,3,Female,Thrissur,2023-06-13,2023-06-22,Diabetes,None
+P10032,Patient_32,20,Female,Trivandrum,2024-03-08,2024-03-09,Fracture,None
+P10033,Patient_33,59,Male,Kochi,2023-12-15,2023-12-25,Cancer,None
+P10034,Patient_34,36,Female,Kozhikode,2023-10-12,2023-10-17,Diabetes,Government
+P10035,Patient_35,19,Female,Trivandrum,2023-06-09,2023-06-10,Infection,None
+P10036,Patient_36,67,Male,Kozhikode,2023-08-09,2023-08-12,Cancer,Government
+P10037,Patient_37,19,Female,Thrissur,2023-12-11,2023-12-16,Cancer,Government
+P10038,Patient_38,20,Male,Kannur,2023-04-15,2023-04-20,Infection,None
+P10039,Patient_39,71,Female,Trivandrum,2023-04-05,2023-04-11,Diabetes,None
+P10040,Patient_40,52,Female,Trivandrum,2024-01-25,2024-01-31,Cardiac Issue,Government
+P10041,Patient_41,33,Male,Thrissur,2023-04-10,2023-04-11,Infection,Government
+P10042,Patient_42,40,Male,Kochi,2024-01-03,2024-01-06,Infection,None
+P10043,Patient_43,39,Female,Kannur,2023-12-19,2023-12-22,Infection,None
+P10044,Patient_44,82,Female,Trivandrum,2024-09-10,2024-09-20,Cancer,Government
+P10045,Patient_45,1,Female,Kannur,2023-09-28,2023-10-05,Fracture,Government
+P10046,Patient_46,11,Male,Trivandrum,2023-02-14,2023-02-16,Cardiac Issue,Government
+P10047,Patient_47,57,Female,Kannur,2024-04-15,2024-04-18,Diabetes,Private
+P10048,Patient_48,89,Male,Kozhikode,2024-07-03,2024-07-04,Diabetes,Government
+P10049,Patient_49,50,Male,Trivandrum,2023-05-08,2023-05-10,Fracture,Private
+P10050,Patient_50,23,Female,Kannur,2024-01-23,2024-02-01,Infection,None
+P10051,Patient_51,31,Male,Kochi,2023-03-22,2023-03-26,Cardiac Issue,None
+P10052,Patient_52,42,Female,Kozhikode,2024-07-19,2024-07-26,Diabetes,Government
+P10053,Patient_53,7,Female,Kozhikode,2023-10-28,2023-11-04,Stroke,None
+P10054,Patient_54,16,Female,Kochi,2024-10-05,2024-10-13,Diabetes,None
+P10055,Patient_55,60,Female,Kannur,2024-09-25,2024-10-01,Infection,None
+P10056,Patient_56,2,Female,Thrissur,2024-01-06,2024-01-09,Stroke,None
+P10057,Patient_57,1,Male,Kochi,2024-08-14,2024-08-20,Fracture,Private
+P10058,Patient_58,48,Male,Kannur,2023-07-16,2023-07-21,Cardiac Issue,Private
+P10059,Patient_59,12,Female,Kochi,2023-03-13,2023-03-19,Fracture,Government
+P10060,Patient_60,69,Female,Kochi,2023-02-16,2023-02-26,Fracture,Government
+P10061,Patient_61,37,Male,Trivandrum,2024-11-08,2024-11-18,Cardiac Issue,Government
+P10062,Patient_62,32,Male,Kannur,2023-08-22,2023-08-24,Cardiac Issue,None
+P10063,Patient_63,9,Male,Thrissur,2023-10-24,2023-10-25,Diabetes,None
+P10064,Patient_64,19,Male,Trivandrum,2023-03-23,2023-03-26,Diabetes,Private
+P10065,Patient_65,48,Female,Kochi,2023-08-27,2023-08-30,Cardiac Issue,Private
+P10066,Patient_66,80,Female,Kochi,2023-04-14,2023-04-24,Stroke,Government
+P10067,Patient_67,3,Male,Kochi,2024-01-25,2024-01-26,Cancer,Private
+P10068,Patient_68,20,Female,Kannur,2023-10-12,2023-10-14,Diabetes,Private
+P10069,Patient_69,24,Male,Kannur,2024-04-09,2024-04-14,Cancer,Private
+P10070,Patient_70,54,Female,Trivandrum,2024-10-12,2024-10-20,Stroke,Private
+P10071,Patient_71,33,Male,Thrissur,2024-01-09,2024-01-16,Cardiac Issue,Private
+P10072,Patient_72,24,Female,Trivandrum,2023-06-16,2023-06-24,Stroke,Government
+P10073,Patient_73,75,Male,Kozhikode,2024-01-15,2024-01-25,Diabetes,Government
+P10074,Patient_74,72,Male,Kochi,2023-12-30,2024-01-07,Fracture,Private
+P10075,Patient_75,36,Female,Kochi,2023-08-03,2023-08-10,Cardiac Issue,Government
+P10076,Patient_76,38,Male,Kochi,2024-11-17,2024-11-22,Infection,None
+P10077,Patient_77,84,Female,Trivandrum,2023-10-01,2023-10-05,Cancer,Private
+P10078,Patient_78,89,Female,Trivandrum,2024-11-30,2024-12-09,Stroke,None
+P10079,Patient_79,25,Male,Kochi,2024-10-25,2024-10-27,Cardiac Issue,Government
+P10080,Patient_80,18,Female,Trivandrum,2023-03-15,2023-03-21,Stroke,Government
+P10081,Patient_81,82,Female,Kannur,2024-09-15,2024-09-22,Cardiac Issue,None
+P10082,Patient_82,66,Female,Kannur,2024-10-12,2024-10-14,Diabetes,Government
+P10083,Patient_83,54,Female,Trivandrum,2023-06-25,2023-06-30,Diabetes,Private
+P10084,Patient_84,35,Female,Kochi,2024-06-30,2024-07-10,Diabetes,None
+P10085,Patient_85,80,Male,Trivandrum,2023-09-08,2023-09-16,Stroke,Private
+P10086,Patient_86,61,Female,Trivandrum,2023-06-17,2023-06-26,Infection,None
+P10087,Patient_87,41,Female,Trivandrum,2024-04-18,2024-04-23,Diabetes,Government
+P10088,Patient_88,33,Female,Kozhikode,2024-01-24,2024-01-25,Cardiac Issue,None
+P10089,Patient_89,68,Female,Kannur,2023-10-04,2023-10-08,Diabetes,None
+P10090,Patient_90,33,Female,Thrissur,2024-10-17,2024-10-24,Fracture,Private
+P10091,Patient_91,14,Male,Thrissur,2024-07-24,2024-08-03,Diabetes,Government
+P10092,Patient_92,21,Female,Kozhikode,2023-08-13,2023-08-14,Stroke,Private
+P10093,Patient_93,48,Male,Trivandrum,2023-11-29,2023-11-30,Infection,Government
+P10094,Patient_94,20,Male,Kozhikode,2023-02-27,2023-03-03,Fracture,Private
+P10095,Patient_95,8,Male,Kozhikode,2023-08-23,2023-08-28,Stroke,None
+P10096,Patient_96,7,Male,Kochi,2023-02-02,2023-02-06,Stroke,Private
+P10097,Patient_97,67,Female,Kannur,2023-11-20,2023-11-23,Stroke,Government
+P10098,Patient_98,17,Male,Thrissur,2024-02-15,2024-02-20,Cardiac Issue,Government
+P10099,Patient_99,33,Male,Trivandrum,2023-10-02,2023-10-07,Stroke,None
+P10100,Patient_100,48,Female,Thrissur,2023-03-09,2023-03-15,Cardiac Issue,Government
+P10101,Patient_101,76,Female,Thrissur,2023-08-05,2023-08-07,Stroke,Private
+P10102,Patient_102,59,Female,Kannur,2024-08-03,2024-08-04,Cancer,None
+P10103,Patient_103,86,Male,Thrissur,2023-11-19,2023-11-27,Fracture,Government
+P10104,Patient_104,22,Female,Thrissur,2023-08-06,2023-08-13,Cancer,Government
+P10105,Patient_105,30,Female,Kozhikode,2024-11-02,2024-11-05,Stroke,Private
+P10106,Patient_106,38,Male,Kannur,2024-05-26,2024-05-29,Fracture,Private
+P10107,Patient_107,51,Female,Kochi,2024-02-10,2024-02-17,Fracture,None
+P10108,Patient_108,54,Female,Trivandrum,2024-10-20,2024-10-29,Infection,Government
+P10109,Patient_109,8,Female,Thrissur,2024-04-14,2024-04-18,Cancer,Private
+P10110,Patient_110,27,Female,Trivandrum,2023-05-27,2023-06-05,Infection,None
+P10111,Patient_111,27,Male,Kochi,2023-09-29,2023-10-08,Fracture,Government
+P10112,Patient_112,21,Female,Trivandrum,2023-05-23,2023-05-29,Cardiac Issue,Government
+P10113,Patient_113,30,Female,Kochi,2023-09-10,2023-09-12,Fracture,None
+P10114,Patient_114,28,Male,Kozhikode,2024-07-28,2024-08-04,Infection,None
+P10115,Patient_115,64,Female,Thrissur,2024-07-05,2024-07-06,Cancer,Private
+P10116,Patient_116,69,Male,Kochi,2023-09-27,2023-10-04,Stroke,Government
+P10117,Patient_117,61,Female,Trivandrum,2024-08-21,2024-08-22,Stroke,Government
+P10118,Patient_118,48,Male,Thrissur,2024-03-14,2024-03-22,Cancer,Government
+P10119,Patient_119,19,Male,Kozhikode,2024-08-20,2024-08-22,Stroke,None
+P10120,Patient_120,4,Male,Thrissur,2024-02-13,2024-02-19,Stroke,Private
+P10121,Patient_121,35,Male,Kochi,2024-01-06,2024-01-16,Infection,Government
+P10122,Patient_122,64,Female,Kozhikode,2023-08-13,2023-08-20,Cancer,None
+P10123,Patient_123,49,Male,Trivandrum,2023-05-22,2023-06-01,Diabetes,Government
+P10124,Patient_124,17,Female,Kozhikode,2024-06-05,2024-06-12,Cardiac Issue,Private
+P10125,Patient_125,44,Male,Kozhikode,2024-05-20,2024-05-27,Cardiac Issue,Government
+P10126,Patient_126,30,Male,Kannur,2023-04-04,2023-04-09,Stroke,Private
+P10127,Patient_127,46,Male,Kozhikode,2023-02-18,2023-02-20,Cardiac Issue,Private
+P10128,Patient_128,6,Female,Kozhikode,2023-04-23,2023-04-30,Cancer,Government
+P10129,Patient_129,37,Male,Thrissur,2023-06-06,2023-06-07,Cancer,Government
+P10130,Patient_130,24,Female,Trivandrum,2024-10-04,2024-10-10,Fracture,Private
+P10131,Patient_131,46,Female,Thrissur,2023-06-13,2023-06-16,Fracture,None
+P10132,Patient_132,53,Female,Thrissur,2024-11-27,2024-12-07,Cardiac Issue,Private
+P10133,Patient_133,60,Female,Kochi,2024-03-08,2024-03-16,Diabetes,Government
+P10134,Patient_134,63,Female,Thrissur,2024-09-02,2024-09-08,Fracture,Government
+P10135,Patient_135,85,Female,Kannur,2023-03-07,2023-03-09,Fracture,None
+P10136,Patient_136,32,Female,Kannur,2024-01-30,2024-02-06,Cancer,Private
+P10137,Patient_137,87,Female,Kochi,2024-01-26,2024-01-28,Diabetes,Private
+P10138,Patient_138,33,Female,Trivandrum,2024-09-02,2024-09-06,Stroke,Private
+P10139,Patient_139,67,Male,Trivandrum,2024-04-24,2024-05-01,Cardiac Issue,Government
+P10140,Patient_140,18,Male,Thrissur,2024-06-25,2024-07-05,Fracture,Private
+P10141,Patient_141,25,Male,Thrissur,2023-09-15,2023-09-22,Diabetes,None
+P10142,Patient_142,54,Male,Thrissur,2024-07-20,2024-07-29,Diabetes,Government
+P10143,Patient_143,58,Male,Trivandrum,2023-01-12,2023-01-14,Cardiac Issue,Government
+P10144,Patient_144,67,Female,Kozhikode,2024-11-27,2024-12-04,Diabetes,Private
+P10145,Patient_145,46,Female,Kannur,2023-04-28,2023-05-03,Diabetes,None
+P10146,Patient_146,24,Female,Kozhikode,2024-11-29,2024-12-05,Diabetes,Government
+P10147,Patient_147,32,Female,Kozhikode,2024-07-03,2024-07-07,Fracture,Government
+P10148,Patient_148,47,Female,Trivandrum,2023-10-01,2023-10-07,Cardiac Issue,Private
+P10149,Patient_149,86,Female,Kozhikode,2024-10-18,2024-10-21,Diabetes,Private
+P10150,Patient_150,23,Female,Kochi,2023-12-15,2023-12-17,Diabetes,None
+P10151,Patient_151,66,Male,Thrissur,2023-04-25,2023-05-04,Fracture,Private
+P10152,Patient_152,27,Male,Kochi,2023-10-28,2023-10-30,Cardiac Issue,None
+P10153,Patient_153,2,Male,Kannur,2024-03-21,2024-03-30,Cancer,Government
+P10154,Patient_154,17,Male,Thrissur,2023-06-11,2023-06-20,Fracture,None
+P10155,Patient_155,33,Female,Kozhikode,2024-04-09,2024-04-13,Cardiac Issue,None
+P10156,Patient_156,9,Female,Kannur,2023-01-04,2023-01-10,Diabetes,None
+P10157,Patient_157,43,Female,Thrissur,2023-09-27,2023-10-03,Cardiac Issue,Government
+P10158,Patient_158,48,Male,Kozhikode,2024-05-27,2024-05-30,Cardiac Issue,Private
+P10159,Patient_159,39,Female,Kochi,2023-07-02,2023-07-06,Stroke,Government
+P10160,Patient_160,42,Female,Thrissur,2024-06-03,2024-06-05,Cardiac Issue,Private
+P10161,Patient_161,26,Female,Kozhikode,2023-04-19,2023-04-22,Cancer,None
+P10162,Patient_162,50,Male,Kochi,2024-10-02,2024-10-07,Cardiac Issue,None
+P10163,Patient_163,25,Female,Kannur,2023-11-02,2023-11-06,Cancer,None
+P10164,Patient_164,24,Male,Kannur,2024-10-16,2024-10-19,Diabetes,None
+P10165,Patient_165,13,Male,Kannur,2024-06-03,2024-06-13,Cancer,None
+P10166,Patient_166,60,Male,Kannur,2024-09-15,2024-09-18,Diabetes,Private
+P10167,Patient_167,7,Male,Trivandrum,2023-07-23,2023-07-25,Diabetes,Private
+P10168,Patient_168,57,Female,Thrissur,2023-06-06,2023-06-09,Cancer,None
+P10169,Patient_169,36,Male,Thrissur,2024-01-18,2024-01-26,Fracture,Government
+P10170,Patient_170,45,Male,Trivandrum,2023-06-15,2023-06-23,Infection,Government
+P10171,Patient_171,20,Female,Kozhikode,2024-07-06,2024-07-16,Cardiac Issue,None
+P10172,Patient_172,65,Female,Kozhikode,2024-06-27,2024-07-07,Stroke,Private
+P10173,Patient_173,8,Male,Kannur,2023-01-01,2023-01-09,Infection,Government
+P10174,Patient_174,16,Female,Kochi,2024-09-05,2024-09-15,Cardiac Issue,Government
+P10175,Patient_175,14,Male,Kozhikode,2023-11-28,2023-12-08,Cardiac Issue,Government
+P10176,Patient_176,76,Male,Kochi,2024-05-15,2024-05-21,Diabetes,None
+P10177,Patient_177,87,Male,Thrissur,2023-01-20,2023-01-26,Cardiac Issue,Government
+P10178,Patient_178,15,Male,Kochi,2023-04-25,2023-04-28,Stroke,Government
+P10179,Patient_179,66,Female,Thrissur,2024-01-07,2024-01-15,Cardiac Issue,Government
+P10180,Patient_180,32,Male,Trivandrum,2023-11-11,2023-11-13,Cancer,Government
+P10181,Patient_181,87,Female,Trivandrum,2023-09-03,2023-09-11,Infection,Private
+P10182,Patient_182,63,Female,Kannur,2023-03-01,2023-03-09,Cancer,None
+P10183,Patient_183,86,Female,Kozhikode,2023-09-04,2023-09-09,Stroke,None
+P10184,Patient_184,51,Female,Kannur,2024-08-03,2024-08-08,Cardiac Issue,Private
+P10185,Patient_185,25,Male,Thrissur,2023-03-22,2023-04-01,Stroke,Private
+P10186,Patient_186,58,Female,Kannur,2023-03-29,2023-03-30,Diabetes,None
+P10187,Patient_187,63,Male,Kochi,2024-05-12,2024-05-18,Cancer,Government
+P10188,Patient_188,62,Female,Thrissur,2023-03-12,2023-03-21,Cancer,Government
+P10189,Patient_189,22,Female,Trivandrum,2024-06-29,2024-07-01,Fracture,None
+P10190,Patient_190,58,Male,Kozhikode,2023-05-09,2023-05-14,Cardiac Issue,Government
+P10191,Patient_191,58,Male,Thrissur,2023-05-12,2023-05-20,Diabetes,Private
+P10192,Patient_192,86,Male,Thrissur,2024-11-06,2024-11-14,Cancer,Government
+P10193,Patient_193,49,Female,Kochi,2024-05-01,2024-05-02,Cancer,Government
+P10194,Patient_194,52,Female,Kozhikode,2024-07-16,2024-07-17,Diabetes,Government
+P10195,Patient_195,42,Male,Trivandrum,2023-06-19,2023-06-25,Stroke,None
+P10196,Patient_196,70,Male,Thrissur,2023-09-29,2023-10-04,Stroke,Private
+P10197,Patient_197,15,Male,Thrissur,2024-06-24,2024-06-26,Cardiac Issue,Government
+P10198,Patient_198,54,Male,Kochi,2024-09-13,2024-09-15,Fracture,None
+P10199,Patient_199,60,Female,Kannur,2024-03-09,2024-03-19,Cancer,Government
+P10200,Patient_200,8,Male,Trivandrum,2023-08-05,2023-08-15,Fracture,Private
+P10201,Patient_201,53,Male,Kozhikode,2024-07-06,2024-07-15,Stroke,Government
+P10202,Patient_202,60,Male,Thrissur,2023-07-25,2023-08-01,Stroke,Private
+P10203,Patient_203,5,Male,Thrissur,2023-11-16,2023-11-24,Infection,Government
+P10204,Patient_204,68,Female,Trivandrum,2024-02-13,2024-02-23,Cardiac Issue,Private
+P10205,Patient_205,6,Male,Kannur,2024-11-18,2024-11-27,Infection,Government
+P10206,Patient_206,47,Female,Thrissur,2024-10-27,2024-10-28,Infection,Private
+P10207,Patient_207,55,Male,Trivandrum,2024-01-18,2024-01-26,Infection,Government
+P10208,Patient_208,40,Male,Kochi,2024-03-24,2024-04-03,Cardiac Issue,Government
+P10209,Patient_209,52,Female,Kannur,2024-06-13,2024-06-17,Cardiac Issue,None
+P10210,Patient_210,16,Male,Kozhikode,2024-04-07,2024-04-13,Diabetes,None
+P10211,Patient_211,13,Female,Thrissur,2023-05-04,2023-05-14,Fracture,Private
+P10212,Patient_212,30,Female,Trivandrum,2023-09-11,2023-09-19,Fracture,Government
+P10213,Patient_213,19,Male,Kochi,2023-08-19,2023-08-28,Diabetes,Private
+P10214,Patient_214,17,Female,Kozhikode,2023-03-07,2023-03-10,Diabetes,None
+P10215,Patient_215,63,Female,Trivandrum,2023-12-13,2023-12-14,Stroke,Private
+P10216,Patient_216,19,Female,Trivandrum,2023-01-22,2023-01-30,Infection,Private
+P10217,Patient_217,58,Female,Kozhikode,2024-08-25,2024-08-27,Diabetes,None
+P10218,Patient_218,55,Female,Kochi,2024-07-21,2024-07-27,Cancer,Government
+P10219,Patient_219,62,Female,Kochi,2023-08-24,2023-08-26,Fracture,Private
+P10220,Patient_220,23,Female,Kannur,2024-08-25,2024-09-03,Diabetes,None
+P10221,Patient_221,9,Female,Thrissur,2023-08-14,2023-08-17,Cancer,Government
+P10222,Patient_222,12,Male,Kozhikode,2023-01-08,2023-01-09,Cancer,None
+P10223,Patient_223,1,Male,Kozhikode,2023-03-14,2023-03-18,Cancer,Private
+P10224,Patient_224,58,Female,Kozhikode,2024-10-08,2024-10-16,Stroke,Government
+P10225,Patient_225,1,Male,Kochi,2023-03-02,2023-03-10,Stroke,Government
+P10226,Patient_226,34,Female,Thrissur,2023-08-23,2023-09-01,Cancer,None
+P10227,Patient_227,48,Female,Kannur,2023-03-11,2023-03-20,Stroke,None
+P10228,Patient_228,89,Male,Trivandrum,2023-02-02,2023-02-12,Infection,None
+P10229,Patient_229,1,Female,Trivandrum,2023-12-05,2023-12-08,Cancer,Government
+P10230,Patient_230,16,Female,Kozhikode,2023-03-14,2023-03-20,Infection,Government
+P10231,Patient_231,61,Female,Thrissur,2024-06-10,2024-06-16,Infection,Private
+P10232,Patient_232,64,Female,Kochi,2023-09-01,2023-09-06,Cancer,Government
+P10233,Patient_233,63,Male,Thrissur,2023-10-13,2023-10-20,Fracture,Private
+P10234,Patient_234,69,Female,Thrissur,2024-11-16,2024-11-23,Cancer,None
+P10235,Patient_235,22,Female,Kochi,2024-05-12,2024-05-18,Cancer,None
+P10236,Patient_236,67,Female,Kozhikode,2023-08-08,2023-08-18,Stroke,Government
+P10237,Patient_237,76,Male,Thrissur,2024-07-06,2024-07-07,Cancer,None
+P10238,Patient_238,26,Female,Trivandrum,2023-05-16,2023-05-22,Fracture,None
+P10239,Patient_239,16,Male,Kochi,2024-08-07,2024-08-09,Stroke,Government
+P10240,Patient_240,51,Male,Kannur,2024-08-13,2024-08-19,Cardiac Issue,Private
+P10241,Patient_241,86,Female,Kozhikode,2024-04-29,2024-05-01,Cardiac Issue,Government
+P10242,Patient_242,57,Female,Kochi,2023-09-06,2023-09-15,Infection,Private
+P10243,Patient_243,29,Male,Kannur,2024-04-29,2024-05-06,Infection,Government
+P10244,Patient_244,78,Female,Kannur,2024-02-21,2024-02-26,Fracture,Government
+P10245,Patient_245,69,Male,Thrissur,2023-07-14,2023-07-19,Diabetes,None
+P10246,Patient_246,47,Male,Thrissur,2023-04-07,2023-04-17,Cardiac Issue,Government
+P10247,Patient_247,62,Female,Thrissur,2023-04-10,2023-04-13,Infection,Government
+P10248,Patient_248,69,Female,Kochi,2024-11-05,2024-11-11,Cardiac Issue,Private
+P10249,Patient_249,76,Male,Kochi,2024-03-17,2024-03-19,Fracture,None
+P10250,Patient_250,16,Male,Kozhikode,2023-12-29,2024-01-08,Fracture,Private
+P10251,Patient_251,48,Male,Thrissur,2024-03-09,2024-03-12,Diabetes,Private
+P10252,Patient_252,85,Male,Kannur,2024-02-25,2024-03-02,Diabetes,None
+P10253,Patient_253,39,Female,Trivandrum,2024-04-23,2024-04-28,Stroke,None
+P10254,Patient_254,33,Female,Kozhikode,2023-02-25,2023-03-04,Fracture,None
+P10255,Patient_255,23,Female,Kochi,2024-11-20,2024-11-23,Infection,Government
+P10256,Patient_256,10,Female,Kozhikode,2024-10-31,2024-11-10,Cardiac Issue,None
+P10257,Patient_257,69,Female,Kozhikode,2024-10-23,2024-10-25,Cancer,None
+P10258,Patient_258,34,Male,Kozhikode,2023-04-11,2023-04-16,Diabetes,None
+P10259,Patient_259,52,Female,Kozhikode,2023-03-04,2023-03-13,Cancer,Private
+P10260,Patient_260,10,Female,Trivandrum,2024-02-17,2024-02-24,Infection,Private
+P10261,Patient_261,19,Female,Thrissur,2023-12-14,2023-12-20,Diabetes,Government
+P10262,Patient_262,58,Female,Kannur,2023-04-22,2023-04-25,Cancer,Private
+P10263,Patient_263,1,Female,Kozhikode,2023-09-12,2023-09-21,Infection,Government
+P10264,Patient_264,69,Male,Kozhikode,2023-07-16,2023-07-18,Cardiac Issue,Private
+P10265,Patient_265,4,Male,Kozhikode,2023-07-14,2023-07-21,Infection,None
+P10266,Patient_266,16,Male,Thrissur,2024-07-03,2024-07-12,Stroke,Private
+P10267,Patient_267,24,Female,Kochi,2024-04-04,2024-04-10,Diabetes,Government
+P10268,Patient_268,80,Male,Kochi,2023-05-24,2023-05-25,Fracture,Private
+P10269,Patient_269,2,Male,Trivandrum,2024-03-08,2024-03-14,Cardiac Issue,None
+P10270,Patient_270,32,Female,Kochi,2023-07-07,2023-07-12,Cancer,Government
+P10271,Patient_271,84,Female,Kozhikode,2023-10-13,2023-10-16,Diabetes,None
+P10272,Patient_272,24,Female,Kozhikode,2024-04-18,2024-04-22,Fracture,None
+P10273,Patient_273,12,Male,Kozhikode,2023-09-13,2023-09-19,Infection,Government
+P10274,Patient_274,50,Male,Trivandrum,2023-03-19,2023-03-27,Fracture,None
+P10275,Patient_275,35,Female,Kozhikode,2024-03-29,2024-04-02,Diabetes,None
+P10276,Patient_276,33,Female,Kochi,2024-07-17,2024-07-21,Diabetes,Private
+P10277,Patient_277,33,Male,Thrissur,2023-04-11,2023-04-14,Stroke,None
+P10278,Patient_278,61,Male,Thrissur,2023-02-21,2023-02-24,Stroke,None
+P10279,Patient_279,51,Female,Kannur,2024-10-29,2024-10-31,Fracture,None
+P10280,Patient_280,43,Female,Kochi,2024-07-07,2024-07-12,Infection,None
+P10281,Patient_281,12,Male,Kozhikode,2023-01-16,2023-01-18,Fracture,Government
+P10282,Patient_282,67,Female,Thrissur,2023-04-06,2023-04-15,Diabetes,Private
+P10283,Patient_283,65,Male,Kochi,2023-08-31,2023-09-09,Diabetes,None
+P10284,Patient_284,33,Male,Thrissur,2023-06-20,2023-06-29,Cancer,None
+P10285,Patient_285,40,Male,Kozhikode,2024-02-21,2024-02-22,Stroke,Government
+P10286,Patient_286,74,Male,Thrissur,2024-05-12,2024-05-18,Cancer,None
+P10287,Patient_287,43,Female,Kannur,2024-05-07,2024-05-17,Cardiac Issue,Government
+P10288,Patient_288,44,Female,Kannur,2023-08-07,2023-08-10,Diabetes,Private
+P10289,Patient_289,29,Male,Thrissur,2024-02-15,2024-02-25,Cancer,Private
+P10290,Patient_290,13,Male,Kochi,2023-03-02,2023-03-09,Fracture,None
+P10291,Patient_291,12,Male,Kochi,2023-06-18,2023-06-21,Stroke,None
+P10292,Patient_292,46,Male,Kochi,2024-01-24,2024-01-27,Stroke,None
+P10293,Patient_293,2,Male,Thrissur,2023-01-03,2023-01-06,Infection,Government
+P10294,Patient_294,35,Female,Kochi,2024-02-04,2024-02-14,Fracture,None
+P10295,Patient_295,87,Female,Kozhikode,2023-09-29,2023-10-02,Infection,None
+P10296,Patient_296,81,Female,Kannur,2024-04-10,2024-04-18,Cancer,Private
+P10297,Patient_297,8,Female,Kozhikode,2023-10-20,2023-10-21,Cardiac Issue,None
+P10298,Patient_298,26,Male,Kochi,2024-03-09,2024-03-16,Fracture,Private
+P10299,Patient_299,74,Male,Kozhikode,2024-07-23,2024-07-29,Fracture,None
+P10300,Patient_300,34,Male,Kochi,2024-11-08,2024-11-12,Fracture,Private
+P10301,Patient_301,7,Male,Thrissur,2024-05-13,2024-05-21,Infection,None
+P10302,Patient_302,68,Male,Kozhikode,2023-06-08,2023-06-18,Cancer,Private
+P10303,Patient_303,58,Female,Thrissur,2023-07-14,2023-07-19,Fracture,Government
+P10304,Patient_304,75,Male,Thrissur,2023-10-31,2023-11-08,Fracture,Private
+P10305,Patient_305,29,Female,Trivandrum,2023-08-11,2023-08-15,Stroke,Private
+P10306,Patient_306,36,Female,Kochi,2023-03-01,2023-03-10,Cardiac Issue,Private
+P10307,Patient_307,89,Female,Kannur,2024-08-16,2024-08-20,Stroke,None
+P10308,Patient_308,21,Female,Kochi,2024-07-09,2024-07-14,Stroke,None
+P10309,Patient_309,36,Male,Kannur,2023-03-04,2023-03-12,Cardiac Issue,None
+P10310,Patient_310,10,Female,Kochi,2023-11-18,2023-11-22,Cancer,Government
+P10311,Patient_311,73,Female,Thrissur,2023-02-28,2023-03-06,Stroke,Government
+P10312,Patient_312,24,Female,Kozhikode,2023-02-21,2023-03-03,Cancer,Private
+P10313,Patient_313,64,Male,Kozhikode,2024-08-21,2024-08-29,Stroke,Government
+P10314,Patient_314,49,Male,Trivandrum,2024-05-03,2024-05-11,Diabetes,Private
+P10315,Patient_315,36,Male,Kannur,2024-05-29,2024-06-03,Cardiac Issue,Private
+P10316,Patient_316,82,Female,Kannur,2024-06-27,2024-07-04,Stroke,Private
+P10317,Patient_317,24,Female,Kannur,2023-06-11,2023-06-20,Diabetes,Government
+P10318,Patient_318,23,Male,Thrissur,2023-02-28,2023-03-09,Infection,None
+P10319,Patient_319,62,Female,Kannur,2024-06-04,2024-06-11,Diabetes,Government
+P10320,Patient_320,37,Male,Kozhikode,2023-03-24,2023-03-27,Fracture,Private
+P10321,Patient_321,12,Male,Thrissur,2023-07-10,2023-07-14,Stroke,Private
+P10322,Patient_322,55,Female,Kochi,2023-03-12,2023-03-22,Diabetes,Government
+P10323,Patient_323,13,Female,Kannur,2024-09-01,2024-09-04,Cancer,Private
+P10324,Patient_324,23,Female,Kannur,2023-03-11,2023-03-16,Infection,Private
+P10325,Patient_325,89,Female,Kochi,2024-11-22,2024-11-23,Stroke,Government
+P10326,Patient_326,30,Male,Kannur,2023-08-29,2023-09-06,Fracture,Government
+P10327,Patient_327,17,Male,Kochi,2024-02-18,2024-02-24,Diabetes,Government
+P10328,Patient_328,62,Male,Thrissur,2023-05-03,2023-05-12,Infection,Private
+P10329,Patient_329,84,Male,Kozhikode,2024-08-06,2024-08-08,Stroke,Private
+P10330,Patient_330,89,Male,Kochi,2023-09-10,2023-09-19,Infection,None
+P10331,Patient_331,86,Female,Trivandrum,2024-08-15,2024-08-17,Fracture,None
+P10332,Patient_332,13,Male,Kochi,2024-08-31,2024-09-05,Diabetes,Government
+P10333,Patient_333,59,Male,Kannur,2023-02-10,2023-02-12,Infection,None
+P10334,Patient_334,19,Male,Thrissur,2024-09-26,2024-09-29,Infection,Private
+P10335,Patient_335,49,Female,Thrissur,2023-03-25,2023-03-30,Cardiac Issue,None
+P10336,Patient_336,12,Female,Kochi,2024-03-05,2024-03-13,Infection,Private
+P10337,Patient_337,61,Female,Kozhikode,2024-11-04,2024-11-13,Cardiac Issue,Government
+P10338,Patient_338,19,Female,Trivandrum,2024-08-20,2024-08-23,Diabetes,Government
+P10339,Patient_339,76,Male,Thrissur,2024-08-01,2024-08-08,Stroke,Private
+P10340,Patient_340,9,Male,Kannur,2024-06-19,2024-06-21,Stroke,None
+P10341,Patient_341,71,Female,Kannur,2023-11-20,2023-11-24,Diabetes,Government
+P10342,Patient_342,28,Female,Kozhikode,2023-09-25,2023-10-03,Diabetes,Government
+P10343,Patient_343,78,Male,Thrissur,2023-07-29,2023-08-04,Cancer,None
+P10344,Patient_344,52,Male,Kochi,2024-11-16,2024-11-17,Diabetes,None
+P10345,Patient_345,83,Female,Kannur,2023-11-18,2023-11-25,Infection,Private
+P10346,Patient_346,16,Female,Kozhikode,2023-09-02,2023-09-03,Stroke,None
+P10347,Patient_347,69,Female,Thrissur,2023-09-29,2023-10-06,Fracture,None
+P10348,Patient_348,12,Female,Thrissur,2024-02-10,2024-02-19,Stroke,None
+P10349,Patient_349,25,Male,Thrissur,2023-05-15,2023-05-21,Cardiac Issue,Private
+P10350,Patient_350,52,Male,Thrissur,2024-11-18,2024-11-22,Stroke,Private
+P10351,Patient_351,85,Male,Thrissur,2024-10-22,2024-10-29,Cancer,Government
+P10352,Patient_352,53,Female,Kannur,2023-11-04,2023-11-06,Diabetes,Private
+P10353,Patient_353,23,Female,Kozhikode,2024-04-13,2024-04-19,Diabetes,Government
+P10354,Patient_354,16,Male,Thrissur,2023-11-20,2023-11-24,Stroke,None
+P10355,Patient_355,57,Male,Trivandrum,2023-03-16,2023-03-17,Fracture,Government
+P10356,Patient_356,39,Male,Trivandrum,2023-01-10,2023-01-16,Fracture,Government
+P10357,Patient_357,53,Male,Kozhikode,2024-04-14,2024-04-16,Cancer,None
+P10358,Patient_358,42,Female,Kochi,2024-09-28,2024-10-04,Cardiac Issue,Government
+P10359,Patient_359,58,Male,Kochi,2024-07-30,2024-08-02,Stroke,Private
+P10360,Patient_360,39,Male,Kochi,2023-04-13,2023-04-16,Diabetes,Private
+P10361,Patient_361,14,Male,Trivandrum,2023-03-17,2023-03-18,Stroke,Private
+P10362,Patient_362,5,Male,Kochi,2024-07-04,2024-07-09,Cancer,Private
+P10363,Patient_363,35,Male,Kannur,2023-08-07,2023-08-15,Infection,Government
+P10364,Patient_364,87,Male,Thrissur,2024-06-02,2024-06-05,Infection,Government
+P10365,Patient_365,75,Male,Trivandrum,2023-09-29,2023-10-07,Cancer,None
+P10366,Patient_366,18,Female,Kozhikode,2023-05-16,2023-05-24,Diabetes,Government
+P10367,Patient_367,76,Female,Kozhikode,2023-12-24,2024-01-03,Cancer,Government
+P10368,Patient_368,9,Female,Thrissur,2023-03-12,2023-03-13,Diabetes,Government
+P10369,Patient_369,74,Female,Trivandrum,2023-09-08,2023-09-10,Fracture,None
+P10370,Patient_370,58,Male,Kochi,2024-01-14,2024-01-15,Cancer,Private
+P10371,Patient_371,17,Female,Kochi,2023-10-19,2023-10-24,Diabetes,Government
+P10372,Patient_372,7,Female,Kannur,2023-06-11,2023-06-15,Cancer,None
+P10373,Patient_373,46,Male,Kannur,2024-03-24,2024-03-27,Cancer,None
+P10374,Patient_374,13,Male,Kochi,2024-07-10,2024-07-19,Diabetes,None
+P10375,Patient_375,40,Female,Kozhikode,2023-11-06,2023-11-16,Diabetes,Private
+P10376,Patient_376,42,Female,Kozhikode,2024-09-18,2024-09-27,Cardiac Issue,Government
+P10377,Patient_377,9,Male,Kannur,2024-10-31,2024-11-07,Cancer,None
+P10378,Patient_378,50,Female,Thrissur,2024-06-25,2024-06-27,Infection,Private
+P10379,Patient_379,27,Male,Kochi,2023-01-09,2023-01-14,Cancer,None
+P10380,Patient_380,66,Male,Kannur,2024-11-14,2024-11-18,Cancer,None
+P10381,Patient_381,5,Male,Kannur,2024-07-21,2024-07-26,Diabetes,None
+P10382,Patient_382,29,Male,Kochi,2023-11-03,2023-11-05,Cancer,None
+P10383,Patient_383,37,Female,Kochi,2024-11-10,2024-11-11,Stroke,None
+P10384,Patient_384,38,Male,Kozhikode,2023-04-17,2023-04-21,Cancer,Private
+P10385,Patient_385,83,Male,Thrissur,2023-05-18,2023-05-25,Stroke,Government
+P10386,Patient_386,8,Female,Thrissur,2023-09-28,2023-10-08,Infection,Government
+P10387,Patient_387,65,Male,Kochi,2023-04-29,2023-05-07,Diabetes,Government
+P10388,Patient_388,86,Female,Trivandrum,2023-04-20,2023-04-22,Cancer,Government
+P10389,Patient_389,17,Female,Kannur,2024-07-20,2024-07-22,Stroke,Private
+P10390,Patient_390,71,Female,Kannur,2023-06-09,2023-06-17,Stroke,Private
+P10391,Patient_391,89,Male,Kochi,2023-10-06,2023-10-16,Stroke,Private
+P10392,Patient_392,45,Female,Trivandrum,2023-10-16,2023-10-25,Fracture,None
+P10393,Patient_393,4,Female,Kozhikode,2024-09-11,2024-09-12,Cardiac Issue,None
+P10394,Patient_394,36,Male,Kochi,2023-08-04,2023-08-13,Infection,None
+P10395,Patient_395,70,Female,Kochi,2023-12-18,2023-12-28,Cancer,Government
+P10396,Patient_396,31,Female,Kannur,2023-07-28,2023-08-01,Fracture,None
+P10397,Patient_397,19,Female,Kochi,2024-10-11,2024-10-14,Cancer,Government
+P10398,Patient_398,61,Female,Kochi,2023-09-28,2023-10-03,Cancer,None
+P10399,Patient_399,54,Female,Kochi,2024-06-01,2024-06-08,Diabetes,Government
+P10400,Patient_400,39,Male,Kannur,2024-05-15,2024-05-16,Diabetes,None
+P10401,Patient_401,74,Female,Kozhikode,2023-09-15,2023-09-25,Diabetes,None
+P10402,Patient_402,19,Female,Kozhikode,2023-02-22,2023-02-28,Fracture,Private
+P10403,Patient_403,39,Male,Kochi,2023-04-05,2023-04-09,Cancer,None
+P10404,Patient_404,67,Male,Kannur,2024-10-11,2024-10-21,Cardiac Issue,None
+P10405,Patient_405,45,Male,Kozhikode,2024-03-09,2024-03-16,Infection,Private
+P10406,Patient_406,13,Female,Kozhikode,2023-10-11,2023-10-14,Diabetes,Government
+P10407,Patient_407,58,Male,Kozhikode,2023-02-15,2023-02-17,Diabetes,Private
+P10408,Patient_408,20,Female,Kannur,2023-01-04,2023-01-13,Cancer,Private
+P10409,Patient_409,72,Female,Kannur,2023-12-08,2023-12-14,Cancer,Government
+P10410,Patient_410,61,Male,Kochi,2023-05-14,2023-05-16,Fracture,None
+P10411,Patient_411,39,Male,Thrissur,2024-10-14,2024-10-23,Fracture,Government
+P10412,Patient_412,1,Female,Kozhikode,2023-09-26,2023-10-05,Diabetes,None
+P10413,Patient_413,3,Male,Thrissur,2023-06-15,2023-06-24,Cancer,None
+P10414,Patient_414,77,Female,Kannur,2024-03-28,2024-04-06,Cardiac Issue,Government
+P10415,Patient_415,62,Male,Kannur,2024-07-18,2024-07-27,Infection,Private
+P10416,Patient_416,63,Male,Kannur,2024-03-13,2024-03-14,Cancer,Government
+P10417,Patient_417,25,Male,Thrissur,2024-07-28,2024-08-04,Cancer,None
+P10418,Patient_418,56,Female,Kannur,2023-01-10,2023-01-18,Stroke,Government
+P10419,Patient_419,33,Male,Kochi,2023-04-25,2023-04-26,Fracture,Government
+P10420,Patient_420,38,Female,Kannur,2023-03-19,2023-03-26,Infection,None
+P10421,Patient_421,6,Female,Trivandrum,2023-06-02,2023-06-08,Diabetes,Private
+P10422,Patient_422,58,Female,Thrissur,2024-07-12,2024-07-17,Cancer,Government
+P10423,Patient_423,44,Female,Trivandrum,2023-02-06,2023-02-07,Diabetes,None
+P10424,Patient_424,45,Male,Kannur,2024-01-14,2024-01-20,Cancer,None
+P10425,Patient_425,32,Female,Kochi,2024-08-19,2024-08-21,Diabetes,Government
+P10426,Patient_426,45,Female,Kozhikode,2024-07-19,2024-07-25,Infection,Private
+P10427,Patient_427,61,Male,Kannur,2023-06-01,2023-06-05,Fracture,Government
+P10428,Patient_428,47,Female,Kochi,2024-03-16,2024-03-18,Infection,Private
+P10429,Patient_429,21,Male,Thrissur,2023-05-11,2023-05-21,Stroke,Private
+P10430,Patient_430,80,Female,Trivandrum,2023-02-12,2023-02-18,Cardiac Issue,Private
+P10431,Patient_431,85,Male,Trivandrum,2023-11-12,2023-11-15,Fracture,Private
+P10432,Patient_432,75,Female,Trivandrum,2024-01-09,2024-01-10,Infection,Government
+P10433,Patient_433,36,Male,Thrissur,2023-02-10,2023-02-16,Stroke,None
+P10434,Patient_434,19,Female,Kochi,2024-01-02,2024-01-11,Cardiac Issue,None
+P10435,Patient_435,20,Female,Thrissur,2023-08-04,2023-08-10,Stroke,None
+P10436,Patient_436,57,Male,Trivandrum,2024-11-29,2024-12-02,Cancer,None
+P10437,Patient_437,18,Male,Kannur,2023-09-13,2023-09-21,Cancer,None
+P10438,Patient_438,47,Male,Kozhikode,2024-11-13,2024-11-21,Diabetes,None
+P10439,Patient_439,49,Male,Thrissur,2023-04-16,2023-04-19,Fracture,Government
+P10440,Patient_440,14,Female,Thrissur,2023-12-29,2024-01-01,Cancer,Private
+P10441,Patient_441,15,Female,Kochi,2024-07-27,2024-07-29,Stroke,None
+P10442,Patient_442,31,Male,Kochi,2024-02-21,2024-02-29,Fracture,Government
+P10443,Patient_443,1,Female,Thrissur,2024-09-27,2024-09-28,Cancer,None
+P10444,Patient_444,54,Male,Trivandrum,2023-06-08,2023-06-13,Diabetes,None
+P10445,Patient_445,3,Male,Kozhikode,2023-08-31,2023-09-04,Infection,Private
+P10446,Patient_446,16,Female,Kochi,2023-06-16,2023-06-17,Diabetes,Private
+P10447,Patient_447,87,Female,Trivandrum,2023-07-01,2023-07-05,Cardiac Issue,Private
+P10448,Patient_448,57,Female,Kannur,2024-02-27,2024-02-28,Cancer,None
+P10449,Patient_449,75,Female,Kochi,2023-01-26,2023-02-01,Cardiac Issue,None
+P10450,Patient_450,12,Female,Trivandrum,2023-07-03,2023-07-08,Cardiac Issue,None
+P10451,Patient_451,74,Female,Trivandrum,2023-12-07,2023-12-16,Stroke,Private
+P10452,Patient_452,16,Female,Kozhikode,2024-02-26,2024-03-04,Fracture,Government
+P10453,Patient_453,72,Male,Kozhikode,2024-11-16,2024-11-25,Stroke,None
+P10454,Patient_454,76,Male,Kannur,2023-09-12,2023-09-20,Cancer,None
+P10455,Patient_455,24,Male,Trivandrum,2023-10-01,2023-10-06,Cardiac Issue,None
+P10456,Patient_456,28,Male,Trivandrum,2023-06-13,2023-06-14,Infection,Government
+P10457,Patient_457,8,Male,Kozhikode,2023-04-21,2023-04-25,Cardiac Issue,None
+P10458,Patient_458,36,Female,Kochi,2024-01-27,2024-02-01,Infection,Government
+P10459,Patient_459,8,Male,Kochi,2023-02-09,2023-02-15,Stroke,None
+P10460,Patient_460,58,Male,Thrissur,2024-04-26,2024-04-27,Stroke,Government
+P10461,Patient_461,60,Male,Kozhikode,2023-08-16,2023-08-22,Fracture,None
+P10462,Patient_462,50,Male,Thrissur,2023-07-24,2023-07-29,Cardiac Issue,Private
+P10463,Patient_463,28,Male,Kozhikode,2024-04-16,2024-04-18,Diabetes,Private
+P10464,Patient_464,41,Male,Kannur,2023-12-25,2023-12-31,Stroke,Private
+P10465,Patient_465,64,Male,Trivandrum,2023-11-09,2023-11-16,Stroke,Private
+P10466,Patient_466,27,Female,Kannur,2023-08-22,2023-08-29,Fracture,None
+P10467,Patient_467,63,Female,Kozhikode,2023-08-17,2023-08-25,Infection,Private
+P10468,Patient_468,17,Male,Trivandrum,2023-01-25,2023-02-01,Fracture,Government
+P10469,Patient_469,73,Female,Kochi,2024-11-06,2024-11-12,Cardiac Issue,Private
+P10470,Patient_470,33,Female,Kochi,2023-07-17,2023-07-20,Cancer,Private
+P10471,Patient_471,84,Female,Thrissur,2024-02-13,2024-02-21,Cancer,Private
+P10472,Patient_472,77,Female,Kozhikode,2023-12-03,2023-12-11,Infection,None
+P10473,Patient_473,29,Male,Kozhikode,2023-10-13,2023-10-19,Stroke,Private
+P10474,Patient_474,13,Female,Kochi,2023-03-13,2023-03-22,Infection,Government
+P10475,Patient_475,46,Female,Kannur,2023-10-13,2023-10-18,Stroke,Private
+P10476,Patient_476,35,Female,Trivandrum,2023-12-26,2023-12-28,Stroke,Private
+P10477,Patient_477,6,Male,Kannur,2024-10-18,2024-10-25,Cancer,Private
+P10478,Patient_478,82,Male,Kannur,2024-06-05,2024-06-07,Infection,Government
+P10479,Patient_479,69,Male,Kochi,2024-02-14,2024-02-21,Fracture,Private
+P10480,Patient_480,47,Male,Kochi,2024-11-26,2024-12-06,Stroke,Government
+P10481,Patient_481,25,Male,Kochi,2024-07-03,2024-07-06,Diabetes,Government
+P10482,Patient_482,66,Male,Thrissur,2023-12-06,2023-12-15,Diabetes,Private
+P10483,Patient_483,10,Male,Kannur,2023-01-29,2023-02-03,Fracture,Government
+P10484,Patient_484,56,Female,Kozhikode,2023-04-29,2023-05-05,Diabetes,None
+P10485,Patient_485,30,Female,Trivandrum,2023-09-25,2023-09-27,Cardiac Issue,Private
+P10486,Patient_486,5,Female,Thrissur,2023-07-02,2023-07-04,Stroke,Private
+P10487,Patient_487,33,Male,Kozhikode,2024-08-17,2024-08-23,Fracture,Government
+P10488,Patient_488,65,Male,Kannur,2023-09-29,2023-10-04,Infection,Government
+P10489,Patient_489,18,Male,Kochi,2023-02-09,2023-02-14,Stroke,Private
+P10490,Patient_490,49,Male,Kannur,2023-04-22,2023-04-30,Fracture,None
+P10491,Patient_491,11,Male,Trivandrum,2024-09-02,2024-09-12,Cancer,Government
+P10492,Patient_492,85,Female,Thrissur,2024-03-20,2024-03-27,Infection,Government
+P10493,Patient_493,26,Female,Thrissur,2023-12-20,2023-12-23,Cancer,None
+P10494,Patient_494,63,Male,Trivandrum,2023-11-18,2023-11-26,Stroke,None
+P10495,Patient_495,89,Male,Kozhikode,2024-03-22,2024-03-28,Infection,Private
+P10496,Patient_496,86,Male,Kozhikode,2024-09-12,2024-09-20,Diabetes,None
+P10497,Patient_497,59,Male,Thrissur,2024-06-07,2024-06-08,Fracture,Private
+P10498,Patient_498,27,Female,Thrissur,2023-04-29,2023-05-05,Stroke,None
+P10499,Patient_499,49,Male,Kochi,2024-01-30,2024-02-09,Cardiac Issue,Government
+P10500,Patient_500,77,Male,Kozhikode,2024-08-13,2024-08-20,Infection,Private
+P10501,Patient_501,33,Male,Trivandrum,2023-07-14,2023-07-19,Infection,Private
+P10502,Patient_502,1,Male,Kozhikode,2023-09-18,2023-09-19,Stroke,Private
+P10503,Patient_503,21,Female,Kochi,2023-02-15,2023-02-17,Stroke,None
+P10504,Patient_504,55,Male,Thrissur,2024-03-22,2024-03-29,Cancer,Government
+P10505,Patient_505,6,Male,Thrissur,2023-01-02,2023-01-08,Diabetes,Private
+P10506,Patient_506,81,Female,Kochi,2024-06-16,2024-06-25,Cancer,Private
+P10507,Patient_507,69,Female,Trivandrum,2024-07-05,2024-07-08,Cancer,Private
+P10508,Patient_508,5,Female,Thrissur,2024-11-17,2024-11-18,Diabetes,Private
+P10509,Patient_509,3,Male,Kannur,2023-07-21,2023-07-24,Cardiac Issue,Government
+P10510,Patient_510,53,Male,Thrissur,2024-01-08,2024-01-18,Cancer,None
+P10511,Patient_511,23,Female,Kannur,2024-03-17,2024-03-25,Cancer,Government
+P10512,Patient_512,53,Female,Kochi,2023-03-13,2023-03-14,Infection,Private
+P10513,Patient_513,37,Female,Kochi,2024-11-11,2024-11-14,Diabetes,Government
+P10514,Patient_514,74,Female,Thrissur,2023-12-05,2023-12-07,Fracture,Private
+P10515,Patient_515,74,Female,Kozhikode,2024-09-30,2024-10-04,Cardiac Issue,None
+P10516,Patient_516,83,Female,Kannur,2023-11-18,2023-11-24,Cardiac Issue,None
+P10517,Patient_517,17,Male,Trivandrum,2024-11-10,2024-11-16,Diabetes,None
+P10518,Patient_518,85,Male,Thrissur,2023-05-08,2023-05-15,Stroke,Private
+P10519,Patient_519,78,Male,Trivandrum,2023-11-04,2023-11-14,Stroke,Government
+P10520,Patient_520,73,Female,Thrissur,2024-06-03,2024-06-04,Infection,None
+P10521,Patient_521,1,Female,Kozhikode,2023-11-13,2023-11-23,Infection,Private
+P10522,Patient_522,51,Female,Kozhikode,2024-11-13,2024-11-16,Diabetes,Private
+P10523,Patient_523,45,Female,Kozhikode,2024-02-23,2024-03-02,Infection,Government
+P10524,Patient_524,77,Female,Kozhikode,2023-12-01,2023-12-07,Cardiac Issue,None
+P10525,Patient_525,4,Female,Kochi,2024-02-17,2024-02-23,Cardiac Issue,Private
+P10526,Patient_526,62,Male,Kochi,2023-10-30,2023-11-07,Fracture,Government
+P10527,Patient_527,65,Male,Kannur,2024-07-21,2024-07-23,Stroke,None
+P10528,Patient_528,32,Female,Trivandrum,2023-05-11,2023-05-21,Diabetes,Government
+P10529,Patient_529,34,Male,Thrissur,2023-07-16,2023-07-19,Cancer,Government
+P10530,Patient_530,72,Female,Thrissur,2024-03-06,2024-03-15,Stroke,Private
+P10531,Patient_531,39,Male,Kochi,2024-11-11,2024-11-17,Cancer,Private
+P10532,Patient_532,26,Female,Thrissur,2024-01-24,2024-01-31,Fracture,Private
+P10533,Patient_533,34,Female,Kochi,2024-11-24,2024-11-30,Fracture,Government
+P10534,Patient_534,54,Male,Kannur,2023-06-28,2023-07-03,Infection,Private
+P10535,Patient_535,3,Male,Trivandrum,2024-09-22,2024-09-26,Fracture,Government
+P10536,Patient_536,50,Female,Kannur,2024-08-05,2024-08-07,Fracture,Government
+P10537,Patient_537,12,Female,Kozhikode,2023-11-05,2023-11-06,Cancer,Private
+P10538,Patient_538,65,Male,Kozhikode,2024-02-20,2024-02-23,Infection,None
+P10539,Patient_539,54,Male,Kozhikode,2024-07-15,2024-07-23,Fracture,None
+P10540,Patient_540,5,Female,Kannur,2023-01-01,2023-01-10,Stroke,None
+P10541,Patient_541,57,Male,Thrissur,2023-11-08,2023-11-15,Fracture,Government
+P10542,Patient_542,17,Female,Trivandrum,2023-10-21,2023-10-30,Infection,Government
+P10543,Patient_543,47,Female,Kozhikode,2023-08-04,2023-08-06,Diabetes,Government
+P10544,Patient_544,23,Female,Kozhikode,2024-03-16,2024-03-21,Infection,Private
+P10545,Patient_545,79,Female,Kozhikode,2024-08-16,2024-08-21,Cancer,Government
+P10546,Patient_546,85,Male,Trivandrum,2024-09-13,2024-09-21,Diabetes,Private
+P10547,Patient_547,14,Male,Kozhikode,2024-11-01,2024-11-05,Stroke,Private
+P10548,Patient_548,66,Male,Trivandrum,2023-11-26,2023-12-06,Cardiac Issue,None
+P10549,Patient_549,75,Male,Kozhikode,2024-04-21,2024-04-26,Infection,None
+P10550,Patient_550,51,Male,Kannur,2024-03-28,2024-04-05,Cancer,None
+P10551,Patient_551,38,Male,Kannur,2024-03-28,2024-04-01,Stroke,Private
+P10552,Patient_552,64,Male,Trivandrum,2024-11-22,2024-11-24,Diabetes,Private
+P10553,Patient_553,38,Female,Kannur,2023-08-07,2023-08-10,Stroke,Private
+P10554,Patient_554,50,Male,Trivandrum,2024-06-07,2024-06-09,Infection,Government
+P10555,Patient_555,82,Male,Kannur,2024-04-29,2024-05-07,Fracture,Private
+P10556,Patient_556,30,Female,Kannur,2023-06-23,2023-06-26,Infection,None
+P10557,Patient_557,79,Male,Trivandrum,2024-11-05,2024-11-13,Cardiac Issue,None
+P10558,Patient_558,51,Male,Thrissur,2023-03-28,2023-03-30,Infection,Private
+P10559,Patient_559,63,Female,Kannur,2023-10-18,2023-10-24,Diabetes,Private
+P10560,Patient_560,52,Male,Kozhikode,2024-06-11,2024-06-17,Diabetes,None
+P10561,Patient_561,38,Male,Thrissur,2024-11-10,2024-11-12,Infection,Private
+P10562,Patient_562,88,Male,Trivandrum,2024-10-10,2024-10-19,Diabetes,None
+P10563,Patient_563,79,Female,Thrissur,2024-09-26,2024-10-05,Fracture,Government
+P10564,Patient_564,30,Male,Kochi,2023-12-10,2023-12-15,Stroke,None
+P10565,Patient_565,51,Male,Kochi,2023-04-06,2023-04-11,Infection,Government
+P10566,Patient_566,81,Female,Kannur,2023-08-29,2023-09-01,Fracture,Private
+P10567,Patient_567,5,Male,Kannur,2024-11-19,2024-11-22,Stroke,Private
+P10568,Patient_568,29,Female,Kozhikode,2023-11-14,2023-11-20,Stroke,Government
+P10569,Patient_569,4,Female,Thrissur,2023-08-19,2023-08-28,Fracture,Private
+P10570,Patient_570,10,Male,Kochi,2023-07-23,2023-07-27,Cancer,Government
+P10571,Patient_571,56,Female,Kannur,2023-05-31,2023-06-02,Infection,Private
+P10572,Patient_572,17,Female,Thrissur,2023-01-26,2023-01-30,Stroke,None
+P10573,Patient_573,74,Male,Kannur,2023-02-17,2023-02-20,Stroke,Private
+P10574,Patient_574,17,Female,Kannur,2023-09-08,2023-09-12,Diabetes,None
+P10575,Patient_575,84,Female,Kochi,2024-05-01,2024-05-09,Stroke,None
+P10576,Patient_576,88,Male,Kochi,2024-09-17,2024-09-18,Fracture,Government
+P10577,Patient_577,69,Male,Kannur,2023-03-16,2023-03-22,Stroke,Private
+P10578,Patient_578,34,Male,Trivandrum,2024-04-11,2024-04-20,Cancer,Government
+P10579,Patient_579,6,Female,Kannur,2024-02-29,2024-03-10,Infection,Private
+P10580,Patient_580,53,Male,Kannur,2024-10-06,2024-10-12,Infection,None
+P10581,Patient_581,66,Female,Kozhikode,2024-08-12,2024-08-20,Stroke,None
+P10582,Patient_582,77,Female,Kozhikode,2023-07-19,2023-07-28,Cardiac Issue,Private
+P10583,Patient_583,43,Female,Kozhikode,2024-01-29,2024-02-01,Cardiac Issue,Private
+P10584,Patient_584,75,Female,Trivandrum,2024-05-21,2024-05-31,Fracture,Government
+P10585,Patient_585,23,Female,Trivandrum,2024-02-14,2024-02-16,Cardiac Issue,Private
+P10586,Patient_586,55,Female,Kannur,2023-09-07,2023-09-09,Fracture,Private
+P10587,Patient_587,80,Female,Kozhikode,2023-06-01,2023-06-06,Diabetes,Private
+P10588,Patient_588,75,Male,Trivandrum,2024-11-02,2024-11-09,Fracture,Government
+P10589,Patient_589,16,Male,Kochi,2023-01-06,2023-01-14,Cardiac Issue,Private
+P10590,Patient_590,8,Female,Kannur,2023-04-20,2023-04-29,Stroke,None
+P10591,Patient_591,4,Female,Thrissur,2024-03-11,2024-03-18,Diabetes,Government
+P10592,Patient_592,4,Male,Kannur,2023-08-13,2023-08-20,Cardiac Issue,Government
+P10593,Patient_593,56,Female,Thrissur,2023-06-30,2023-07-10,Fracture,None
+P10594,Patient_594,25,Male,Kozhikode,2024-06-14,2024-06-16,Cancer,None
+P10595,Patient_595,67,Male,Thrissur,2024-04-20,2024-04-23,Infection,None
+P10596,Patient_596,67,Male,Kozhikode,2023-02-21,2023-02-27,Cardiac Issue,Private
+P10597,Patient_597,27,Female,Kochi,2024-07-24,2024-07-26,Fracture,None
+P10598,Patient_598,32,Female,Thrissur,2023-09-13,2023-09-21,Diabetes,Private
+P10599,Patient_599,50,Male,Kannur,2023-05-05,2023-05-13,Cardiac Issue,Government
+P10600,Patient_600,61,Male,Kozhikode,2024-04-12,2024-04-21,Cardiac Issue,Government
+P10601,Patient_601,51,Male,Kannur,2023-05-17,2023-05-23,Infection,None
+P10602,Patient_602,19,Male,Trivandrum,2024-04-20,2024-04-23,Fracture,Private
+P10603,Patient_603,21,Male,Kozhikode,2024-11-14,2024-11-23,Cancer,None
+P10604,Patient_604,5,Female,Thrissur,2024-06-27,2024-07-07,Diabetes,None
+P10605,Patient_605,82,Male,Kozhikode,2024-07-26,2024-07-29,Fracture,Private
+P10606,Patient_606,42,Female,Kannur,2024-09-01,2024-09-04,Diabetes,None
+P10607,Patient_607,61,Male,Kochi,2023-11-21,2023-11-28,Cardiac Issue,Government
+P10608,Patient_608,22,Female,Kozhikode,2024-03-29,2024-04-07,Infection,None
+P10609,Patient_609,21,Female,Thrissur,2024-09-19,2024-09-20,Infection,Private
+P10610,Patient_610,70,Female,Trivandrum,2024-05-31,2024-06-02,Stroke,Private
+P10611,Patient_611,1,Female,Kochi,2024-03-12,2024-03-21,Cancer,Government
+P10612,Patient_612,5,Female,Trivandrum,2024-07-15,2024-07-18,Infection,Private
+P10613,Patient_613,12,Female,Kozhikode,2024-04-01,2024-04-06,Cardiac Issue,Private
+P10614,Patient_614,46,Male,Kannur,2023-06-12,2023-06-15,Cancer,Government
+P10615,Patient_615,34,Female,Kannur,2024-05-01,2024-05-04,Fracture,None
+P10616,Patient_616,49,Male,Thrissur,2024-04-05,2024-04-11,Infection,Government
+P10617,Patient_617,78,Female,Kannur,2023-09-23,2023-09-27,Cancer,None
+P10618,Patient_618,45,Female,Kochi,2023-09-11,2023-09-17,Cardiac Issue,Government
+P10619,Patient_619,27,Male,Kannur,2024-10-14,2024-10-23,Stroke,None
+P10620,Patient_620,73,Female,Thrissur,2023-10-11,2023-10-16,Diabetes,Government
+P10621,Patient_621,26,Male,Kozhikode,2024-06-17,2024-06-19,Diabetes,None
+P10622,Patient_622,47,Male,Kozhikode,2024-05-11,2024-05-16,Cardiac Issue,Government
+P10623,Patient_623,86,Male,Kannur,2024-10-03,2024-10-07,Cardiac Issue,None
+P10624,Patient_624,56,Male,Trivandrum,2023-09-02,2023-09-11,Diabetes,Government
+P10625,Patient_625,63,Female,Kozhikode,2023-10-09,2023-10-14,Stroke,Private
+P10626,Patient_626,48,Female,Kannur,2024-03-26,2024-03-29,Cancer,None
+P10627,Patient_627,61,Male,Thrissur,2023-03-21,2023-03-26,Diabetes,Government
+P10628,Patient_628,81,Female,Kannur,2023-10-20,2023-10-30,Cardiac Issue,None
+P10629,Patient_629,26,Female,Kozhikode,2023-08-29,2023-09-07,Infection,None
+P10630,Patient_630,36,Male,Thrissur,2023-10-06,2023-10-08,Fracture,Government
+P10631,Patient_631,1,Female,Kannur,2023-12-10,2023-12-19,Stroke,None
+P10632,Patient_632,8,Male,Kochi,2023-11-24,2023-11-27,Stroke,Government
+P10633,Patient_633,52,Male,Thrissur,2024-07-07,2024-07-17,Infection,Private
+P10634,Patient_634,79,Female,Kochi,2023-03-24,2023-04-03,Infection,None
+P10635,Patient_635,47,Female,Trivandrum,2023-05-22,2023-05-25,Cardiac Issue,Private
+P10636,Patient_636,56,Female,Thrissur,2023-06-04,2023-06-07,Diabetes,None
+P10637,Patient_637,86,Male,Kochi,2023-08-25,2023-09-04,Cancer,None
+P10638,Patient_638,14,Male,Kozhikode,2024-01-28,2024-02-07,Stroke,None
+P10639,Patient_639,28,Female,Kozhikode,2023-06-06,2023-06-12,Stroke,Government
+P10640,Patient_640,87,Female,Trivandrum,2023-08-08,2023-08-18,Infection,Private
+P10641,Patient_641,78,Female,Thrissur,2023-03-07,2023-03-08,Diabetes,None
+P10642,Patient_642,88,Female,Thrissur,2024-02-29,2024-03-01,Stroke,Government
+P10643,Patient_643,2,Male,Thrissur,2024-02-22,2024-02-24,Cancer,None
+P10644,Patient_644,26,Female,Trivandrum,2023-12-05,2023-12-06,Infection,Government
+P10645,Patient_645,14,Male,Thrissur,2024-07-09,2024-07-19,Cancer,None
+P10646,Patient_646,59,Male,Kozhikode,2024-04-22,2024-04-27,Diabetes,Private
+P10647,Patient_647,56,Female,Kochi,2024-03-01,2024-03-05,Stroke,Private
+P10648,Patient_648,7,Female,Kozhikode,2023-03-05,2023-03-15,Fracture,None
+P10649,Patient_649,3,Female,Kozhikode,2023-07-31,2023-08-07,Stroke,Government
+P10650,Patient_650,23,Male,Kochi,2024-03-06,2024-03-16,Diabetes,None
+P10651,Patient_651,18,Female,Kozhikode,2024-02-03,2024-02-04,Stroke,Government
+P10652,Patient_652,38,Female,Trivandrum,2024-08-21,2024-08-29,Stroke,None
+P10653,Patient_653,15,Male,Kochi,2023-01-21,2023-01-30,Cardiac Issue,Government
+P10654,Patient_654,64,Female,Kozhikode,2024-08-12,2024-08-17,Stroke,Private
+P10655,Patient_655,89,Male,Kannur,2024-01-25,2024-01-30,Stroke,None
+P10656,Patient_656,28,Female,Kozhikode,2024-05-03,2024-05-11,Cancer,Private
+P10657,Patient_657,74,Male,Trivandrum,2023-01-07,2023-01-11,Fracture,Private
+P10658,Patient_658,39,Female,Thrissur,2023-12-27,2024-01-03,Cancer,None
+P10659,Patient_659,57,Female,Kozhikode,2023-11-02,2023-11-07,Cancer,None
+P10660,Patient_660,17,Male,Thrissur,2024-02-04,2024-02-12,Infection,Government
+P10661,Patient_661,86,Male,Kannur,2024-03-05,2024-03-07,Cardiac Issue,Government
+P10662,Patient_662,44,Female,Kozhikode,2024-07-05,2024-07-06,Cancer,Private
+P10663,Patient_663,25,Male,Kochi,2024-07-13,2024-07-16,Diabetes,Government
+P10664,Patient_664,17,Male,Thrissur,2024-09-09,2024-09-17,Diabetes,Government
+P10665,Patient_665,13,Male,Kannur,2023-08-14,2023-08-21,Stroke,None
+P10666,Patient_666,84,Male,Kochi,2024-05-14,2024-05-22,Infection,Government
+P10667,Patient_667,25,Female,Kochi,2023-08-13,2023-08-21,Cardiac Issue,Private
+P10668,Patient_668,68,Female,Kochi,2023-10-07,2023-10-11,Cardiac Issue,Government
+P10669,Patient_669,10,Male,Kochi,2024-03-22,2024-03-28,Stroke,Private
+P10670,Patient_670,67,Male,Kozhikode,2024-05-12,2024-05-22,Diabetes,None
+P10671,Patient_671,18,Male,Kozhikode,2023-01-30,2023-02-02,Fracture,Private
+P10672,Patient_672,86,Male,Kozhikode,2024-02-03,2024-02-09,Infection,Government
+P10673,Patient_673,34,Female,Kannur,2023-12-11,2023-12-17,Stroke,None
+P10674,Patient_674,8,Female,Kannur,2024-11-15,2024-11-21,Infection,Government
+P10675,Patient_675,40,Male,Kannur,2024-11-26,2024-12-03,Diabetes,None
+P10676,Patient_676,83,Male,Trivandrum,2024-02-19,2024-02-22,Diabetes,None
+P10677,Patient_677,42,Male,Kannur,2023-06-19,2023-06-25,Fracture,Government
+P10678,Patient_678,41,Female,Kozhikode,2024-04-23,2024-05-02,Fracture,Government
+P10679,Patient_679,6,Male,Kozhikode,2023-05-11,2023-05-20,Cardiac Issue,None
+P10680,Patient_680,52,Female,Trivandrum,2024-09-29,2024-10-01,Infection,None
+P10681,Patient_681,26,Male,Trivandrum,2024-06-30,2024-07-06,Infection,Government
+P10682,Patient_682,64,Female,Kannur,2023-01-28,2023-02-01,Diabetes,Private
+P10683,Patient_683,59,Male,Thrissur,2024-02-08,2024-02-16,Cardiac Issue,Government
+P10684,Patient_684,56,Female,Trivandrum,2024-08-29,2024-08-31,Stroke,None
+P10685,Patient_685,59,Male,Kochi,2024-07-31,2024-08-05,Infection,Government
+P10686,Patient_686,70,Male,Kozhikode,2024-11-09,2024-11-17,Cardiac Issue,Private
+P10687,Patient_687,33,Male,Kochi,2023-01-28,2023-02-01,Cardiac Issue,Government
+P10688,Patient_688,53,Female,Kozhikode,2023-03-27,2023-03-30,Diabetes,None
+P10689,Patient_689,22,Male,Kozhikode,2024-10-20,2024-10-22,Cardiac Issue,Government
+P10690,Patient_690,21,Female,Trivandrum,2024-03-14,2024-03-15,Fracture,None
+P10691,Patient_691,70,Female,Trivandrum,2023-05-19,2023-05-24,Fracture,None
+P10692,Patient_692,70,Male,Kochi,2024-04-17,2024-04-24,Cancer,Government
+P10693,Patient_693,4,Male,Kozhikode,2023-07-06,2023-07-16,Diabetes,None
+P10694,Patient_694,75,Male,Kochi,2023-02-21,2023-02-28,Stroke,None
+P10695,Patient_695,62,Female,Thrissur,2023-09-24,2023-09-28,Cancer,Private
+P10696,Patient_696,62,Male,Kochi,2024-01-24,2024-01-27,Fracture,Private
+P10697,Patient_697,24,Female,Kannur,2023-12-02,2023-12-08,Cancer,Private
+P10698,Patient_698,55,Female,Kochi,2023-08-05,2023-08-15,Diabetes,Private
+P10699,Patient_699,9,Male,Kannur,2024-04-10,2024-04-16,Diabetes,None
+P10700,Patient_700,3,Male,Kannur,2023-12-01,2023-12-05,Cardiac Issue,Government
+P10701,Patient_701,31,Male,Kannur,2023-12-12,2023-12-15,Infection,None
+P10702,Patient_702,40,Male,Thrissur,2024-01-24,2024-02-01,Cardiac Issue,None
+P10703,Patient_703,36,Male,Kochi,2023-10-12,2023-10-21,Diabetes,None
+P10704,Patient_704,24,Male,Kochi,2024-03-07,2024-03-15,Fracture,Government
+P10705,Patient_705,6,Female,Thrissur,2023-09-16,2023-09-24,Stroke,Private
+P10706,Patient_706,66,Female,Kozhikode,2023-03-25,2023-03-30,Fracture,None
+P10707,Patient_707,84,Female,Trivandrum,2024-04-26,2024-05-04,Cardiac Issue,None
+P10708,Patient_708,75,Male,Kochi,2023-01-20,2023-01-21,Stroke,Private
+P10709,Patient_709,4,Female,Trivandrum,2024-07-06,2024-07-08,Diabetes,None
+P10710,Patient_710,79,Female,Thrissur,2023-02-23,2023-03-02,Fracture,Government
+P10711,Patient_711,6,Female,Kozhikode,2023-12-25,2024-01-03,Diabetes,None
+P10712,Patient_712,51,Female,Kozhikode,2023-08-18,2023-08-26,Stroke,None
+P10713,Patient_713,62,Female,Kozhikode,2024-10-27,2024-10-31,Stroke,Private
+P10714,Patient_714,57,Male,Thrissur,2023-03-12,2023-03-16,Fracture,None
+P10715,Patient_715,66,Male,Kannur,2024-10-29,2024-11-08,Diabetes,None
+P10716,Patient_716,79,Female,Kannur,2023-02-11,2023-02-17,Cancer,Government
+P10717,Patient_717,75,Female,Trivandrum,2023-02-01,2023-02-02,Diabetes,Private
+P10718,Patient_718,8,Female,Kannur,2023-09-11,2023-09-12,Stroke,Private
+P10719,Patient_719,26,Male,Kannur,2023-07-24,2023-07-29,Diabetes,Government
+P10720,Patient_720,51,Male,Kozhikode,2023-01-21,2023-01-29,Cardiac Issue,None
+P10721,Patient_721,45,Female,Kozhikode,2024-09-28,2024-10-08,Cancer,Private
+P10722,Patient_722,44,Male,Trivandrum,2023-06-06,2023-06-14,Infection,Private
+P10723,Patient_723,5,Male,Kochi,2023-09-02,2023-09-07,Cardiac Issue,None
+P10724,Patient_724,70,Female,Trivandrum,2023-05-10,2023-05-19,Infection,None
+P10725,Patient_725,26,Male,Trivandrum,2024-04-29,2024-04-30,Fracture,Private
+P10726,Patient_726,68,Male,Thrissur,2024-11-16,2024-11-18,Infection,None
+P10727,Patient_727,19,Female,Thrissur,2023-04-28,2023-05-05,Diabetes,Private
+P10728,Patient_728,84,Male,Trivandrum,2024-07-31,2024-08-03,Infection,None
+P10729,Patient_729,20,Male,Trivandrum,2023-08-12,2023-08-17,Stroke,None
+P10730,Patient_730,12,Female,Trivandrum,2024-04-21,2024-04-27,Cardiac Issue,Government
+P10731,Patient_731,47,Male,Kannur,2023-09-20,2023-09-27,Cardiac Issue,None
+P10732,Patient_732,1,Male,Thrissur,2024-01-13,2024-01-19,Infection,Government
+P10733,Patient_733,14,Female,Trivandrum,2023-06-21,2023-06-22,Cardiac Issue,None
+P10734,Patient_734,64,Female,Kozhikode,2024-09-12,2024-09-19,Stroke,Private
+P10735,Patient_735,38,Female,Kozhikode,2024-09-13,2024-09-14,Cardiac Issue,Private
+P10736,Patient_736,37,Male,Kannur,2023-04-28,2023-05-08,Infection,None
+P10737,Patient_737,11,Female,Kannur,2023-06-17,2023-06-26,Cancer,None
+P10738,Patient_738,77,Male,Kochi,2023-11-15,2023-11-19,Cancer,Private
+P10739,Patient_739,3,Female,Kochi,2023-04-21,2023-04-27,Fracture,None
+P10740,Patient_740,33,Male,Kochi,2024-08-15,2024-08-24,Cardiac Issue,Government
+P10741,Patient_741,6,Female,Kannur,2023-01-27,2023-02-01,Infection,Government
+P10742,Patient_742,50,Female,Kannur,2023-11-16,2023-11-18,Cardiac Issue,Government
+P10743,Patient_743,10,Female,Kannur,2024-08-12,2024-08-19,Diabetes,Government
+P10744,Patient_744,5,Female,Kozhikode,2024-11-24,2024-12-03,Stroke,Government
+P10745,Patient_745,23,Male,Kannur,2024-01-20,2024-01-28,Cardiac Issue,None
+P10746,Patient_746,10,Female,Kozhikode,2024-02-11,2024-02-20,Cardiac Issue,None
+P10747,Patient_747,44,Female,Kochi,2023-07-23,2023-07-28,Cancer,Government
+P10748,Patient_748,2,Male,Kochi,2023-03-19,2023-03-29,Stroke,None
+P10749,Patient_749,13,Female,Kochi,2024-08-29,2024-09-08,Infection,None
+P10750,Patient_750,40,Male,Trivandrum,2024-10-04,2024-10-06,Cardiac Issue,Government
+P10751,Patient_751,2,Female,Trivandrum,2023-09-06,2023-09-09,Cancer,None
+P10752,Patient_752,84,Female,Thrissur,2023-04-15,2023-04-17,Fracture,None
+P10753,Patient_753,65,Female,Thrissur,2023-11-05,2023-11-12,Stroke,None
+P10754,Patient_754,63,Male,Thrissur,2024-12-01,2024-12-07,Cancer,Government
+P10755,Patient_755,73,Female,Trivandrum,2024-09-06,2024-09-12,Cancer,None
+P10756,Patient_756,17,Female,Trivandrum,2023-05-04,2023-05-13,Cancer,Private
+P10757,Patient_757,9,Female,Thrissur,2024-08-02,2024-08-08,Cardiac Issue,Private
+P10758,Patient_758,75,Male,Thrissur,2023-02-12,2023-02-15,Cardiac Issue,Government
+P10759,Patient_759,15,Male,Kannur,2023-12-22,2023-12-26,Fracture,Private
+P10760,Patient_760,24,Female,Thrissur,2024-06-29,2024-07-09,Diabetes,Government
+P10761,Patient_761,38,Male,Kannur,2024-03-14,2024-03-23,Diabetes,Private
+P10762,Patient_762,35,Female,Kozhikode,2024-11-08,2024-11-15,Diabetes,Private
+P10763,Patient_763,49,Female,Trivandrum,2024-01-15,2024-01-24,Stroke,Private
+P10764,Patient_764,69,Female,Thrissur,2023-03-12,2023-03-13,Stroke,Government
+P10765,Patient_765,62,Female,Trivandrum,2024-06-02,2024-06-03,Fracture,Government
+P10766,Patient_766,60,Female,Trivandrum,2024-10-25,2024-10-26,Stroke,None
+P10767,Patient_767,50,Female,Trivandrum,2023-12-16,2023-12-19,Diabetes,Government
+P10768,Patient_768,78,Female,Kozhikode,2023-01-13,2023-01-19,Diabetes,Private
+P10769,Patient_769,75,Male,Kochi,2024-03-06,2024-03-14,Cancer,Private
+P10770,Patient_770,9,Male,Thrissur,2024-05-16,2024-05-25,Stroke,Government
+P10771,Patient_771,34,Male,Kochi,2023-04-19,2023-04-27,Cardiac Issue,Government
+P10772,Patient_772,76,Male,Kochi,2024-03-19,2024-03-22,Cardiac Issue,Government
+P10773,Patient_773,35,Male,Kochi,2024-01-06,2024-01-16,Cancer,None
+P10774,Patient_774,1,Male,Trivandrum,2024-10-12,2024-10-21,Cancer,Private
+P10775,Patient_775,40,Male,Kannur,2024-04-15,2024-04-18,Cancer,None
+P10776,Patient_776,64,Female,Trivandrum,2023-06-06,2023-06-12,Cardiac Issue,None
+P10777,Patient_777,22,Female,Trivandrum,2024-03-21,2024-03-31,Diabetes,Private
+P10778,Patient_778,60,Female,Kochi,2023-06-30,2023-07-06,Cancer,Private
+P10779,Patient_779,64,Female,Trivandrum,2024-06-18,2024-06-21,Fracture,Government
+P10780,Patient_780,72,Male,Kochi,2024-10-28,2024-11-04,Cancer,Government
+P10781,Patient_781,11,Male,Kannur,2023-10-04,2023-10-14,Infection,None
+P10782,Patient_782,14,Female,Thrissur,2024-09-22,2024-09-27,Cancer,Government
+P10783,Patient_783,60,Female,Kochi,2024-07-05,2024-07-15,Cardiac Issue,Government
+P10784,Patient_784,30,Male,Kannur,2024-05-10,2024-05-16,Stroke,Private
+P10785,Patient_785,35,Female,Thrissur,2024-04-21,2024-04-30,Cancer,Private
+P10786,Patient_786,85,Female,Kozhikode,2024-03-22,2024-03-31,Stroke,Government
+P10787,Patient_787,37,Female,Kochi,2024-08-29,2024-09-07,Infection,Private
+P10788,Patient_788,5,Female,Kochi,2023-10-02,2023-10-10,Fracture,Government
+P10789,Patient_789,83,Male,Kozhikode,2023-11-27,2023-12-07,Stroke,Private
+P10790,Patient_790,78,Female,Kozhikode,2023-09-09,2023-09-14,Diabetes,Private
+P10791,Patient_791,26,Female,Kochi,2023-03-30,2023-04-07,Cancer,Private
+P10792,Patient_792,62,Male,Kozhikode,2023-10-13,2023-10-14,Infection,Private
+P10793,Patient_793,4,Male,Trivandrum,2024-04-06,2024-04-12,Infection,Government
+P10794,Patient_794,89,Female,Thrissur,2023-09-07,2023-09-13,Stroke,None
+P10795,Patient_795,42,Male,Thrissur,2024-04-20,2024-04-22,Fracture,Private
+P10796,Patient_796,89,Female,Thrissur,2024-08-06,2024-08-13,Cardiac Issue,Government
+P10797,Patient_797,18,Female,Trivandrum,2024-09-16,2024-09-26,Cancer,Government
+P10798,Patient_798,40,Male,Kozhikode,2024-11-15,2024-11-20,Infection,Private
+P10799,Patient_799,72,Female,Kannur,2024-01-24,2024-01-25,Fracture,None
+P10800,Patient_800,39,Female,Kozhikode,2023-12-11,2023-12-21,Diabetes,Private
+P10801,Patient_801,14,Female,Kochi,2023-01-30,2023-02-07,Infection,Government
+P10802,Patient_802,32,Female,Thrissur,2024-05-21,2024-05-26,Fracture,None
+P10803,Patient_803,51,Male,Kozhikode,2023-11-29,2023-12-09,Cardiac Issue,Government
+P10804,Patient_804,38,Male,Kannur,2023-07-06,2023-07-16,Cardiac Issue,Private
+P10805,Patient_805,23,Female,Kochi,2024-05-14,2024-05-18,Infection,None
+P10806,Patient_806,63,Male,Trivandrum,2023-08-06,2023-08-07,Infection,Government
+P10807,Patient_807,15,Female,Trivandrum,2023-12-30,2024-01-09,Stroke,Government
+P10808,Patient_808,25,Female,Kannur,2023-09-22,2023-09-30,Cancer,Government
+P10809,Patient_809,17,Female,Kochi,2023-12-15,2023-12-18,Fracture,Private
+P10810,Patient_810,66,Female,Thrissur,2023-10-14,2023-10-23,Infection,None
+P10811,Patient_811,78,Female,Kozhikode,2024-09-02,2024-09-12,Cancer,Private
+P10812,Patient_812,53,Male,Kochi,2023-10-10,2023-10-17,Stroke,Private
+P10813,Patient_813,51,Female,Trivandrum,2024-07-23,2024-07-26,Cancer,Private
+P10814,Patient_814,39,Male,Kannur,2023-01-11,2023-01-15,Infection,None
+P10815,Patient_815,51,Male,Kannur,2024-06-13,2024-06-14,Cardiac Issue,Private
+P10816,Patient_816,70,Female,Kozhikode,2023-07-15,2023-07-25,Fracture,Private
+P10817,Patient_817,6,Female,Kannur,2023-03-29,2023-03-31,Fracture,Private
+P10818,Patient_818,67,Female,Kannur,2023-09-05,2023-09-09,Cardiac Issue,Private
+P10819,Patient_819,7,Female,Kochi,2024-02-21,2024-02-22,Infection,Government
+P10820,Patient_820,51,Female,Thrissur,2024-05-15,2024-05-23,Fracture,Private
+P10821,Patient_821,72,Male,Kozhikode,2024-07-22,2024-07-28,Infection,Government
+P10822,Patient_822,42,Female,Kochi,2023-09-04,2023-09-11,Stroke,Private
+P10823,Patient_823,64,Female,Thrissur,2024-05-02,2024-05-05,Infection,None
+P10824,Patient_824,15,Male,Kochi,2024-10-23,2024-10-30,Cancer,Government
+P10825,Patient_825,29,Male,Kochi,2024-05-17,2024-05-21,Cardiac Issue,Government
+P10826,Patient_826,33,Female,Kannur,2024-04-03,2024-04-10,Infection,Government
+P10827,Patient_827,27,Male,Thrissur,2023-01-18,2023-01-27,Stroke,Government
+P10828,Patient_828,36,Female,Kozhikode,2023-04-06,2023-04-16,Diabetes,None
+P10829,Patient_829,29,Male,Kozhikode,2023-10-29,2023-11-06,Cardiac Issue,Private
+P10830,Patient_830,38,Male,Thrissur,2023-08-15,2023-08-16,Fracture,Government
+P10831,Patient_831,57,Female,Kannur,2024-02-19,2024-02-22,Cancer,None
+P10832,Patient_832,27,Male,Trivandrum,2023-09-07,2023-09-16,Fracture,Government
+P10833,Patient_833,55,Male,Kochi,2023-11-10,2023-11-14,Stroke,Private
+P10834,Patient_834,33,Male,Kannur,2024-11-10,2024-11-19,Stroke,Government
+P10835,Patient_835,68,Male,Thrissur,2024-08-18,2024-08-24,Fracture,None
+P10836,Patient_836,86,Male,Kochi,2024-01-13,2024-01-21,Cardiac Issue,Private
+P10837,Patient_837,66,Male,Kozhikode,2024-04-29,2024-05-08,Fracture,None
+P10838,Patient_838,10,Female,Trivandrum,2024-07-20,2024-07-27,Infection,Private
+P10839,Patient_839,5,Female,Kozhikode,2024-06-27,2024-07-03,Fracture,Private
+P10840,Patient_840,74,Male,Thrissur,2023-12-19,2023-12-22,Cancer,Private
+P10841,Patient_841,38,Female,Kochi,2024-03-11,2024-03-19,Cancer,Government
+P10842,Patient_842,13,Female,Thrissur,2024-07-17,2024-07-26,Diabetes,None
+P10843,Patient_843,31,Female,Kochi,2023-12-05,2023-12-11,Cancer,None
+P10844,Patient_844,47,Male,Kannur,2023-12-27,2024-01-05,Fracture,None
+P10845,Patient_845,88,Female,Trivandrum,2024-04-09,2024-04-15,Cancer,Private
+P10846,Patient_846,52,Male,Kannur,2023-10-05,2023-10-10,Cardiac Issue,Government
+P10847,Patient_847,56,Female,Kannur,2023-11-10,2023-11-20,Cancer,Private
+P10848,Patient_848,15,Male,Thrissur,2023-09-15,2023-09-23,Infection,None
+P10849,Patient_849,29,Male,Trivandrum,2023-08-25,2023-08-29,Cardiac Issue,Government
+P10850,Patient_850,8,Female,Kochi,2023-05-04,2023-05-08,Diabetes,Government
+P10851,Patient_851,5,Female,Kochi,2023-07-17,2023-07-22,Infection,Government
+P10852,Patient_852,29,Male,Kozhikode,2023-11-20,2023-11-29,Fracture,None
+P10853,Patient_853,47,Female,Kochi,2023-05-03,2023-05-08,Fracture,Government
+P10854,Patient_854,68,Female,Thrissur,2024-07-02,2024-07-06,Fracture,Government
+P10855,Patient_855,76,Female,Kannur,2023-07-09,2023-07-14,Infection,Private
+P10856,Patient_856,45,Male,Kannur,2023-07-16,2023-07-21,Infection,Private
+P10857,Patient_857,2,Male,Kannur,2023-08-10,2023-08-14,Infection,Government
+P10858,Patient_858,27,Female,Trivandrum,2024-05-10,2024-05-18,Cardiac Issue,Government
+P10859,Patient_859,36,Female,Kochi,2023-10-11,2023-10-17,Stroke,Private
+P10860,Patient_860,36,Female,Thrissur,2024-08-26,2024-09-03,Cardiac Issue,Private
+P10861,Patient_861,26,Male,Trivandrum,2024-06-21,2024-06-27,Fracture,Private
+P10862,Patient_862,43,Male,Kozhikode,2024-09-03,2024-09-12,Stroke,None
+P10863,Patient_863,27,Female,Thrissur,2023-10-17,2023-10-22,Cancer,None
+P10864,Patient_864,69,Female,Thrissur,2023-04-13,2023-04-18,Fracture,Private
+P10865,Patient_865,20,Female,Thrissur,2023-07-18,2023-07-20,Diabetes,Government
+P10866,Patient_866,11,Female,Kannur,2023-10-31,2023-11-10,Cardiac Issue,Private
+P10867,Patient_867,74,Female,Thrissur,2023-08-21,2023-08-30,Infection,None
+P10868,Patient_868,38,Female,Kochi,2024-01-05,2024-01-12,Cardiac Issue,Government
+P10869,Patient_869,6,Male,Thrissur,2023-07-03,2023-07-10,Infection,None
+P10870,Patient_870,72,Female,Kannur,2023-11-06,2023-11-12,Stroke,Government
+P10871,Patient_871,23,Male,Thrissur,2023-01-15,2023-01-18,Diabetes,None
+P10872,Patient_872,47,Female,Kozhikode,2024-06-30,2024-07-05,Stroke,Government
+P10873,Patient_873,46,Female,Kozhikode,2023-05-10,2023-05-11,Diabetes,Government
+P10874,Patient_874,12,Male,Kannur,2023-10-08,2023-10-13,Cardiac Issue,Government
+P10875,Patient_875,13,Male,Kochi,2023-02-16,2023-02-18,Infection,Government
+P10876,Patient_876,62,Male,Kochi,2023-02-25,2023-03-03,Stroke,None
+P10877,Patient_877,82,Male,Trivandrum,2024-07-20,2024-07-28,Diabetes,None
+P10878,Patient_878,89,Female,Kannur,2023-10-27,2023-11-01,Fracture,Government
+P10879,Patient_879,60,Male,Thrissur,2023-05-10,2023-05-18,Fracture,Government
+P10880,Patient_880,43,Female,Kannur,2024-10-15,2024-10-19,Stroke,None
+P10881,Patient_881,76,Male,Trivandrum,2024-05-17,2024-05-21,Infection,Government
+P10882,Patient_882,68,Female,Kannur,2023-04-16,2023-04-25,Stroke,Government
+P10883,Patient_883,5,Female,Kannur,2023-01-13,2023-01-18,Cardiac Issue,Government
+P10884,Patient_884,37,Female,Trivandrum,2024-08-10,2024-08-19,Diabetes,Private
+P10885,Patient_885,72,Female,Kochi,2023-10-19,2023-10-24,Cardiac Issue,Government
+P10886,Patient_886,31,Female,Thrissur,2024-04-25,2024-04-28,Fracture,Private
+P10887,Patient_887,9,Female,Trivandrum,2024-05-05,2024-05-07,Diabetes,Government
+P10888,Patient_888,51,Male,Kozhikode,2024-03-27,2024-04-06,Stroke,None
+P10889,Patient_889,29,Female,Kochi,2023-12-15,2023-12-25,Cardiac Issue,Private
+P10890,Patient_890,78,Male,Kozhikode,2023-07-08,2023-07-12,Cancer,Private
+P10891,Patient_891,40,Male,Kochi,2023-02-22,2023-02-26,Infection,Government
+P10892,Patient_892,41,Female,Thrissur,2023-09-16,2023-09-17,Infection,Government
+P10893,Patient_893,86,Male,Thrissur,2024-05-04,2024-05-13,Cancer,Private
+P10894,Patient_894,11,Female,Kannur,2023-04-27,2023-05-01,Fracture,None
+P10895,Patient_895,23,Male,Kozhikode,2023-03-08,2023-03-12,Diabetes,None
+P10896,Patient_896,1,Female,Kochi,2024-02-15,2024-02-16,Infection,Government
+P10897,Patient_897,46,Male,Thrissur,2024-05-18,2024-05-20,Cancer,None
+P10898,Patient_898,21,Female,Trivandrum,2023-03-17,2023-03-24,Stroke,None
+P10899,Patient_899,36,Female,Thrissur,2024-08-13,2024-08-19,Cancer,Government
+P10900,Patient_900,54,Female,Trivandrum,2024-10-06,2024-10-14,Fracture,None
+P10901,Patient_901,87,Female,Kochi,2023-02-24,2023-02-26,Fracture,Government
+P10902,Patient_902,57,Male,Thrissur,2023-06-05,2023-06-08,Cardiac Issue,Private
+P10903,Patient_903,1,Female,Thrissur,2023-06-02,2023-06-03,Infection,Government
+P10904,Patient_904,63,Male,Kochi,2024-07-30,2024-08-08,Cardiac Issue,Private
+P10905,Patient_905,54,Male,Thrissur,2023-11-08,2023-11-11,Cancer,Private
+P10906,Patient_906,55,Male,Trivandrum,2023-03-29,2023-04-05,Diabetes,None
+P10907,Patient_907,40,Female,Thrissur,2023-09-12,2023-09-20,Diabetes,None
+P10908,Patient_908,15,Male,Kozhikode,2023-05-02,2023-05-10,Fracture,None
+P10909,Patient_909,21,Male,Kannur,2024-07-25,2024-07-29,Diabetes,Government
+P10910,Patient_910,47,Male,Trivandrum,2024-03-02,2024-03-07,Diabetes,None
+P10911,Patient_911,73,Female,Kozhikode,2024-09-12,2024-09-18,Diabetes,Private
+P10912,Patient_912,53,Female,Kochi,2024-09-02,2024-09-07,Cancer,None
+P10913,Patient_913,9,Male,Trivandrum,2024-09-25,2024-09-26,Diabetes,None
+P10914,Patient_914,74,Female,Kannur,2023-08-20,2023-08-22,Stroke,Government
+P10915,Patient_915,52,Female,Kannur,2024-06-19,2024-06-29,Diabetes,Government
+P10916,Patient_916,57,Male,Kochi,2024-01-25,2024-01-29,Diabetes,Private
+P10917,Patient_917,26,Male,Kochi,2024-04-06,2024-04-15,Cardiac Issue,Government
+P10918,Patient_918,41,Female,Trivandrum,2024-03-29,2024-03-30,Cancer,None
+P10919,Patient_919,35,Male,Thrissur,2023-11-01,2023-11-04,Fracture,Government
+P10920,Patient_920,63,Female,Kochi,2024-08-25,2024-09-01,Cardiac Issue,Private
+P10921,Patient_921,25,Female,Thrissur,2024-03-15,2024-03-18,Infection,None
+P10922,Patient_922,75,Female,Kozhikode,2023-11-09,2023-11-10,Cancer,Private
+P10923,Patient_923,38,Female,Kannur,2024-08-05,2024-08-12,Stroke,Government
+P10924,Patient_924,2,Female,Thrissur,2024-09-27,2024-10-05,Cancer,Government
+P10925,Patient_925,7,Female,Kannur,2023-03-03,2023-03-06,Infection,Private
+P10926,Patient_926,82,Male,Thrissur,2024-09-16,2024-09-21,Infection,None
+P10927,Patient_927,34,Male,Kozhikode,2023-04-12,2023-04-13,Infection,Government
+P10928,Patient_928,17,Female,Kochi,2023-08-01,2023-08-02,Fracture,Government
+P10929,Patient_929,43,Female,Kozhikode,2024-10-02,2024-10-07,Diabetes,None
+P10930,Patient_930,59,Female,Kochi,2023-08-05,2023-08-15,Cancer,Government
+P10931,Patient_931,51,Male,Kochi,2023-09-28,2023-10-08,Diabetes,Private
+P10932,Patient_932,54,Female,Kannur,2024-11-07,2024-11-09,Diabetes,Government
+P10933,Patient_933,24,Male,Kozhikode,2023-03-25,2023-03-31,Stroke,Government
+P10934,Patient_934,25,Female,Thrissur,2023-06-10,2023-06-15,Infection,None
+P10935,Patient_935,71,Female,Kozhikode,2023-09-03,2023-09-11,Fracture,Private
+P10936,Patient_936,52,Male,Kannur,2023-06-27,2023-07-06,Stroke,None
+P10937,Patient_937,70,Male,Kochi,2024-07-19,2024-07-28,Cardiac Issue,Government
+P10938,Patient_938,88,Female,Kannur,2023-03-18,2023-03-26,Fracture,Government
+P10939,Patient_939,33,Female,Trivandrum,2023-06-10,2023-06-13,Diabetes,None
+P10940,Patient_940,49,Female,Trivandrum,2023-01-03,2023-01-12,Fracture,None
+P10941,Patient_941,29,Male,Thrissur,2024-02-23,2024-03-02,Infection,None
+P10942,Patient_942,63,Male,Kannur,2024-04-06,2024-04-11,Cardiac Issue,Private
+P10943,Patient_943,22,Male,Thrissur,2024-08-31,2024-09-04,Infection,Government
+P10944,Patient_944,26,Male,Thrissur,2024-04-26,2024-04-28,Cardiac Issue,None
+P10945,Patient_945,28,Male,Trivandrum,2023-10-26,2023-11-01,Stroke,Government
+P10946,Patient_946,85,Male,Thrissur,2023-02-03,2023-02-06,Diabetes,Private
+P10947,Patient_947,49,Female,Trivandrum,2023-08-26,2023-09-03,Cardiac Issue,Private
+P10948,Patient_948,71,Female,Kochi,2023-10-23,2023-10-28,Cardiac Issue,Private
+P10949,Patient_949,81,Male,Kannur,2023-10-17,2023-10-20,Cardiac Issue,Private
+P10950,Patient_950,84,Female,Thrissur,2024-04-09,2024-04-10,Fracture,Government
+P10951,Patient_951,49,Female,Trivandrum,2023-03-14,2023-03-20,Stroke,Private
+P10952,Patient_952,20,Male,Kozhikode,2023-08-28,2023-09-02,Fracture,Private
+P10953,Patient_953,86,Female,Thrissur,2023-09-28,2023-10-08,Diabetes,None
+P10954,Patient_954,63,Male,Kochi,2024-10-02,2024-10-06,Cardiac Issue,Private
+P10955,Patient_955,61,Male,Kochi,2024-08-26,2024-08-29,Stroke,None
+P10956,Patient_956,49,Female,Kozhikode,2024-11-08,2024-11-18,Stroke,Private
+P10957,Patient_957,71,Male,Trivandrum,2023-07-22,2023-07-29,Cancer,Private
+P10958,Patient_958,1,Male,Thrissur,2024-03-11,2024-03-18,Diabetes,None
+P10959,Patient_959,13,Male,Trivandrum,2023-04-28,2023-05-07,Stroke,Private
+P10960,Patient_960,87,Male,Kochi,2024-07-11,2024-07-17,Cardiac Issue,Government
+P10961,Patient_961,51,Male,Trivandrum,2023-08-19,2023-08-21,Cardiac Issue,Government
+P10962,Patient_962,56,Male,Kochi,2024-10-25,2024-11-01,Stroke,Private
+P10963,Patient_963,83,Male,Trivandrum,2023-06-02,2023-06-04,Fracture,Government
+P10964,Patient_964,62,Male,Kozhikode,2023-09-30,2023-10-03,Diabetes,None
+P10965,Patient_965,32,Female,Kannur,2023-05-26,2023-05-29,Cardiac Issue,Private
+P10966,Patient_966,30,Female,Kozhikode,2023-03-15,2023-03-23,Stroke,Private
+P10967,Patient_967,29,Female,Kozhikode,2023-03-03,2023-03-09,Cardiac Issue,None
+P10968,Patient_968,49,Male,Kannur,2023-06-19,2023-06-23,Stroke,None
+P10969,Patient_969,45,Male,Kannur,2023-11-11,2023-11-12,Diabetes,None
+P10970,Patient_970,30,Female,Thrissur,2024-09-01,2024-09-06,Stroke,Private
+P10971,Patient_971,16,Female,Thrissur,2024-08-05,2024-08-12,Cancer,None
+P10972,Patient_972,40,Female,Kozhikode,2023-10-23,2023-10-27,Stroke,None
+P10973,Patient_973,19,Male,Kozhikode,2024-03-25,2024-04-02,Stroke,Government
+P10974,Patient_974,18,Female,Kochi,2023-05-08,2023-05-13,Diabetes,Government
+P10975,Patient_975,1,Female,Kochi,2024-04-24,2024-04-30,Stroke,Private
+P10976,Patient_976,78,Male,Thrissur,2023-11-08,2023-11-13,Diabetes,Government
+P10977,Patient_977,47,Female,Thrissur,2024-02-17,2024-02-27,Cancer,Government
+P10978,Patient_978,66,Male,Kochi,2023-10-06,2023-10-16,Diabetes,None
+P10979,Patient_979,38,Male,Kochi,2024-05-27,2024-05-28,Cardiac Issue,None
+P10980,Patient_980,51,Male,Trivandrum,2024-07-06,2024-07-11,Diabetes,Government
+P10981,Patient_981,63,Female,Trivandrum,2024-05-20,2024-05-26,Cancer,Government
+P10982,Patient_982,4,Female,Kochi,2024-03-24,2024-03-28,Infection,Government
+P10983,Patient_983,1,Male,Trivandrum,2023-03-24,2023-03-25,Stroke,Private
+P10984,Patient_984,8,Female,Kannur,2024-09-04,2024-09-06,Diabetes,Private
+P10985,Patient_985,29,Female,Thrissur,2023-02-10,2023-02-18,Stroke,Private
+P10986,Patient_986,55,Female,Thrissur,2024-03-18,2024-03-23,Fracture,Government
+P10987,Patient_987,3,Female,Kochi,2023-11-27,2023-11-30,Cardiac Issue,Government
+P10988,Patient_988,32,Male,Kozhikode,2024-09-10,2024-09-17,Cardiac Issue,Private
+P10989,Patient_989,10,Female,Kochi,2023-09-14,2023-09-23,Fracture,Private
+P10990,Patient_990,74,Male,Trivandrum,2023-01-27,2023-02-01,Fracture,Government
+P10991,Patient_991,83,Male,Kozhikode,2023-04-04,2023-04-06,Diabetes,None
+P10992,Patient_992,34,Female,Trivandrum,2023-08-23,2023-08-28,Fracture,Private
+P10993,Patient_993,87,Male,Kannur,2024-11-21,2024-11-27,Infection,Government
+P10994,Patient_994,55,Female,Trivandrum,2024-08-12,2024-08-22,Stroke,Government
+P10995,Patient_995,32,Female,Kannur,2024-08-24,2024-08-28,Stroke,None
+P10996,Patient_996,50,Male,Kannur,2023-01-22,2023-01-26,Cancer,Government
+P10997,Patient_997,7,Male,Trivandrum,2024-11-19,2024-11-22,Fracture,Government
+P10998,Patient_998,8,Male,Trivandrum,2023-10-03,2023-10-11,Fracture,Private
+P10999,Patient_999,65,Male,Kannur,2024-08-13,2024-08-16,Infection,Private
+P11000,Patient_1000,57,Female,Kozhikode,2023-02-11,2023-02-19,Cardiac Issue,None
+P11001,Patient_1001,67,Female,Kannur,2023-06-29,2023-07-09,Cardiac Issue,None
+P11002,Patient_1002,88,Female,Thrissur,2024-04-26,2024-05-02,Stroke,Government
+P11003,Patient_1003,87,Male,Kannur,2024-06-15,2024-06-22,Stroke,Private
+P11004,Patient_1004,59,Male,Kozhikode,2024-10-29,2024-11-07,Diabetes,None
+P11005,Patient_1005,72,Male,Thrissur,2024-03-28,2024-04-05,Infection,None
+P11006,Patient_1006,54,Female,Kochi,2023-10-12,2023-10-21,Cancer,None
+P11007,Patient_1007,67,Male,Kochi,2023-07-05,2023-07-09,Cancer,Government
+P11008,Patient_1008,51,Female,Kozhikode,2024-08-22,2024-08-26,Infection,Private
+P11009,Patient_1009,8,Male,Kannur,2024-03-22,2024-04-01,Cancer,None
+P11010,Patient_1010,34,Female,Trivandrum,2024-10-12,2024-10-14,Cardiac Issue,Private
+P11011,Patient_1011,35,Female,Kozhikode,2024-05-18,2024-05-27,Cancer,None
+P11012,Patient_1012,88,Male,Thrissur,2023-04-04,2023-04-12,Cancer,None
+P11013,Patient_1013,78,Male,Thrissur,2024-04-26,2024-05-05,Infection,Private
+P11014,Patient_1014,32,Female,Kochi,2023-12-23,2023-12-29,Infection,Private
+P11015,Patient_1015,46,Female,Thrissur,2024-02-23,2024-02-25,Cancer,Private
+P11016,Patient_1016,16,Male,Kozhikode,2023-12-08,2023-12-18,Fracture,Government
+P11017,Patient_1017,68,Male,Thrissur,2023-11-25,2023-11-27,Infection,None
+P11018,Patient_1018,37,Female,Kozhikode,2024-11-17,2024-11-18,Diabetes,Government
+P11019,Patient_1019,54,Male,Trivandrum,2023-04-18,2023-04-27,Diabetes,Private
+P11020,Patient_1020,85,Female,Kochi,2023-06-14,2023-06-23,Cardiac Issue,None
+P11021,Patient_1021,14,Female,Thrissur,2023-12-04,2023-12-08,Cancer,Government
+P11022,Patient_1022,55,Male,Kozhikode,2024-02-26,2024-03-07,Fracture,None
+P11023,Patient_1023,48,Male,Kannur,2024-05-22,2024-05-31,Cardiac Issue,Government
+P11024,Patient_1024,82,Male,Kochi,2023-10-23,2023-10-26,Cancer,Private
+P11025,Patient_1025,7,Male,Trivandrum,2024-11-09,2024-11-12,Infection,Government
+P11026,Patient_1026,74,Male,Kozhikode,2024-02-15,2024-02-21,Diabetes,None
+P11027,Patient_1027,7,Female,Trivandrum,2024-07-17,2024-07-26,Stroke,None
+P11028,Patient_1028,33,Female,Trivandrum,2023-02-07,2023-02-15,Fracture,None
+P11029,Patient_1029,23,Male,Thrissur,2024-04-10,2024-04-12,Stroke,None
+P11030,Patient_1030,85,Male,Thrissur,2023-04-01,2023-04-05,Diabetes,Private
+P11031,Patient_1031,19,Male,Kozhikode,2023-11-19,2023-11-29,Stroke,Government
+P11032,Patient_1032,19,Female,Kannur,2023-09-16,2023-09-24,Infection,Private
+P11033,Patient_1033,36,Male,Kozhikode,2023-11-28,2023-11-30,Cancer,Private
+P11034,Patient_1034,29,Male,Kannur,2023-04-29,2023-05-08,Infection,Private
+P11035,Patient_1035,60,Female,Trivandrum,2024-02-18,2024-02-26,Stroke,None
+P11036,Patient_1036,82,Female,Kochi,2024-06-10,2024-06-11,Infection,None
+P11037,Patient_1037,2,Male,Kozhikode,2023-01-02,2023-01-10,Diabetes,None
+P11038,Patient_1038,1,Male,Kozhikode,2024-11-04,2024-11-07,Fracture,Government
+P11039,Patient_1039,47,Male,Kannur,2024-07-09,2024-07-18,Infection,None
+P11040,Patient_1040,69,Female,Trivandrum,2024-04-18,2024-04-25,Diabetes,Government
+P11041,Patient_1041,20,Male,Trivandrum,2024-02-28,2024-03-07,Fracture,None
+P11042,Patient_1042,11,Male,Kannur,2023-02-25,2023-03-07,Cancer,None
+P11043,Patient_1043,2,Male,Trivandrum,2023-07-12,2023-07-13,Stroke,Private
+P11044,Patient_1044,67,Female,Thrissur,2024-06-14,2024-06-23,Cancer,Private
+P11045,Patient_1045,87,Female,Kochi,2024-01-06,2024-01-14,Cardiac Issue,Private
+P11046,Patient_1046,12,Male,Kozhikode,2024-09-29,2024-10-04,Diabetes,Government
+P11047,Patient_1047,20,Male,Kochi,2024-05-25,2024-05-26,Fracture,Government
+P11048,Patient_1048,5,Female,Kozhikode,2024-10-02,2024-10-09,Infection,None
+P11049,Patient_1049,37,Female,Thrissur,2024-03-28,2024-04-02,Cancer,Government
+P11050,Patient_1050,38,Female,Trivandrum,2023-02-22,2023-02-23,Fracture,None
+P11051,Patient_1051,9,Female,Kannur,2023-07-28,2023-08-01,Diabetes,Government
+P11052,Patient_1052,53,Female,Thrissur,2023-10-01,2023-10-11,Cardiac Issue,Government
+P11053,Patient_1053,44,Female,Kochi,2024-07-16,2024-07-18,Cancer,Government
+P11054,Patient_1054,86,Female,Kannur,2023-05-15,2023-05-16,Stroke,Private
+P11055,Patient_1055,24,Female,Trivandrum,2023-10-22,2023-10-29,Fracture,Government
+P11056,Patient_1056,81,Female,Thrissur,2024-03-24,2024-03-30,Stroke,Private
+P11057,Patient_1057,74,Male,Kannur,2024-05-11,2024-05-13,Fracture,Private
+P11058,Patient_1058,30,Male,Thrissur,2023-05-05,2023-05-14,Fracture,Government
+P11059,Patient_1059,59,Male,Thrissur,2023-01-30,2023-01-31,Diabetes,None
+P11060,Patient_1060,87,Female,Trivandrum,2024-10-07,2024-10-09,Diabetes,None
+P11061,Patient_1061,81,Male,Kozhikode,2024-09-15,2024-09-23,Diabetes,None
+P11062,Patient_1062,81,Female,Kannur,2023-09-03,2023-09-04,Infection,Government
+P11063,Patient_1063,14,Female,Trivandrum,2023-06-12,2023-06-17,Fracture,None
+P11064,Patient_1064,9,Male,Thrissur,2023-11-15,2023-11-22,Cancer,Private
+P11065,Patient_1065,40,Female,Trivandrum,2024-07-18,2024-07-21,Stroke,None
+P11066,Patient_1066,66,Male,Kozhikode,2023-01-15,2023-01-18,Diabetes,Government
+P11067,Patient_1067,25,Male,Kannur,2024-07-19,2024-07-26,Diabetes,None
+P11068,Patient_1068,73,Male,Kozhikode,2024-02-22,2024-02-28,Stroke,Private
+P11069,Patient_1069,22,Female,Kochi,2023-04-06,2023-04-13,Stroke,Government
+P11070,Patient_1070,4,Male,Kannur,2023-08-19,2023-08-27,Fracture,None
+P11071,Patient_1071,26,Female,Kozhikode,2023-04-27,2023-05-04,Diabetes,Government
+P11072,Patient_1072,58,Male,Thrissur,2024-04-17,2024-04-24,Stroke,Government
+P11073,Patient_1073,29,Male,Kannur,2023-05-01,2023-05-03,Infection,Government
+P11074,Patient_1074,87,Male,Kannur,2024-10-25,2024-11-03,Infection,None
+P11075,Patient_1075,37,Female,Trivandrum,2023-06-07,2023-06-10,Diabetes,Government
+P11076,Patient_1076,75,Female,Thrissur,2024-05-25,2024-05-31,Stroke,None
+P11077,Patient_1077,70,Female,Kochi,2023-10-26,2023-10-28,Fracture,Private
+P11078,Patient_1078,18,Male,Kozhikode,2024-06-05,2024-06-08,Fracture,None
+P11079,Patient_1079,85,Male,Trivandrum,2023-10-07,2023-10-16,Fracture,Private
+P11080,Patient_1080,42,Female,Kozhikode,2024-03-01,2024-03-08,Cardiac Issue,None
+P11081,Patient_1081,41,Female,Kochi,2024-05-09,2024-05-18,Diabetes,Government
+P11082,Patient_1082,38,Female,Kochi,2024-04-28,2024-05-01,Fracture,None
+P11083,Patient_1083,34,Female,Kannur,2023-09-07,2023-09-11,Infection,Government
+P11084,Patient_1084,17,Female,Kochi,2024-04-12,2024-04-13,Stroke,Private
+P11085,Patient_1085,37,Female,Kozhikode,2024-07-18,2024-07-19,Cancer,None
+P11086,Patient_1086,25,Male,Thrissur,2023-05-29,2023-06-03,Cancer,Government
+P11087,Patient_1087,76,Female,Thrissur,2024-01-28,2024-02-05,Fracture,Private
+P11088,Patient_1088,87,Male,Kannur,2023-07-15,2023-07-24,Cancer,Private
+P11089,Patient_1089,86,Male,Kozhikode,2024-09-05,2024-09-12,Cancer,None
+P11090,Patient_1090,85,Female,Kozhikode,2024-06-04,2024-06-13,Cardiac Issue,Private
+P11091,Patient_1091,27,Female,Kochi,2023-05-20,2023-05-27,Infection,Government
+P11092,Patient_1092,57,Male,Kozhikode,2023-03-13,2023-03-17,Infection,Private
+P11093,Patient_1093,31,Female,Trivandrum,2023-10-10,2023-10-14,Cardiac Issue,Private
+P11094,Patient_1094,6,Female,Kochi,2024-02-29,2024-03-08,Cardiac Issue,Government
+P11095,Patient_1095,40,Male,Trivandrum,2023-12-15,2023-12-21,Cancer,Private
+P11096,Patient_1096,12,Male,Kannur,2024-06-03,2024-06-06,Diabetes,Private
+P11097,Patient_1097,53,Male,Thrissur,2023-10-01,2023-10-06,Stroke,Private
+P11098,Patient_1098,71,Female,Kannur,2023-01-03,2023-01-07,Stroke,Private
+P11099,Patient_1099,10,Male,Thrissur,2023-10-17,2023-10-19,Cancer,Government
+P11100,Patient_1100,45,Female,Kannur,2023-11-02,2023-11-03,Stroke,Private
+P11101,Patient_1101,17,Male,Kozhikode,2024-08-24,2024-08-31,Cardiac Issue,Government
+P11102,Patient_1102,26,Male,Trivandrum,2024-08-16,2024-08-26,Infection,Private
+P11103,Patient_1103,85,Male,Thrissur,2024-11-06,2024-11-07,Stroke,Private
+P11104,Patient_1104,62,Female,Kochi,2024-05-16,2024-05-20,Cancer,Private
+P11105,Patient_1105,46,Female,Trivandrum,2023-06-02,2023-06-06,Diabetes,Private
+P11106,Patient_1106,64,Male,Kochi,2024-04-02,2024-04-04,Cancer,Government
+P11107,Patient_1107,2,Male,Trivandrum,2024-07-05,2024-07-07,Fracture,Government
+P11108,Patient_1108,54,Male,Trivandrum,2024-05-10,2024-05-20,Cancer,Government
+P11109,Patient_1109,65,Female,Kannur,2023-12-20,2023-12-21,Cardiac Issue,None
+P11110,Patient_1110,51,Male,Thrissur,2023-12-07,2023-12-15,Infection,Private
+P11111,Patient_1111,53,Female,Thrissur,2024-07-19,2024-07-29,Infection,Private
+P11112,Patient_1112,36,Male,Trivandrum,2024-07-10,2024-07-11,Stroke,Government
+P11113,Patient_1113,26,Male,Kozhikode,2024-01-22,2024-01-26,Cardiac Issue,None
+P11114,Patient_1114,29,Male,Kozhikode,2024-04-11,2024-04-12,Fracture,Private
+P11115,Patient_1115,21,Male,Kochi,2023-11-26,2023-12-03,Cardiac Issue,Government
+P11116,Patient_1116,11,Male,Kochi,2023-07-13,2023-07-21,Cancer,Private
+P11117,Patient_1117,40,Male,Kannur,2023-09-02,2023-09-06,Cardiac Issue,Private
+P11118,Patient_1118,11,Female,Trivandrum,2024-08-08,2024-08-17,Cardiac Issue,Government
+P11119,Patient_1119,36,Male,Kochi,2024-01-28,2024-02-01,Fracture,Government
+P11120,Patient_1120,59,Female,Kochi,2023-08-28,2023-08-29,Cancer,Private
+P11121,Patient_1121,39,Male,Trivandrum,2024-02-25,2024-02-28,Diabetes,Private
+P11122,Patient_1122,54,Male,Kannur,2023-02-14,2023-02-23,Diabetes,Government
+P11123,Patient_1123,55,Female,Kochi,2023-11-22,2023-11-27,Infection,Private
+P11124,Patient_1124,24,Male,Kannur,2024-04-29,2024-05-03,Stroke,Private
+P11125,Patient_1125,22,Female,Thrissur,2024-01-26,2024-02-05,Cardiac Issue,Government
+P11126,Patient_1126,69,Female,Kannur,2024-01-31,2024-02-06,Infection,Private
+P11127,Patient_1127,56,Male,Kozhikode,2024-11-10,2024-11-20,Fracture,Private
+P11128,Patient_1128,33,Female,Kozhikode,2024-10-29,2024-11-08,Diabetes,None
+P11129,Patient_1129,36,Female,Kannur,2023-06-05,2023-06-11,Cardiac Issue,Government
+P11130,Patient_1130,20,Male,Kozhikode,2024-05-22,2024-05-26,Fracture,None
+P11131,Patient_1131,83,Female,Thrissur,2023-02-07,2023-02-12,Stroke,None
+P11132,Patient_1132,81,Male,Trivandrum,2023-05-10,2023-05-13,Fracture,None
+P11133,Patient_1133,62,Male,Kozhikode,2024-05-29,2024-06-07,Cardiac Issue,Private
+P11134,Patient_1134,73,Male,Kozhikode,2024-08-27,2024-08-31,Stroke,Private
+P11135,Patient_1135,26,Male,Kannur,2023-12-06,2023-12-13,Fracture,None
+P11136,Patient_1136,66,Female,Thrissur,2023-04-13,2023-04-18,Stroke,None
+P11137,Patient_1137,73,Male,Trivandrum,2024-03-26,2024-03-31,Cardiac Issue,None
+P11138,Patient_1138,73,Male,Kannur,2023-04-13,2023-04-14,Cardiac Issue,Private
+P11139,Patient_1139,40,Female,Kannur,2024-06-22,2024-07-01,Stroke,None
+P11140,Patient_1140,17,Male,Thrissur,2024-04-12,2024-04-22,Cancer,None
+P11141,Patient_1141,1,Male,Trivandrum,2023-01-16,2023-01-19,Infection,Government
+P11142,Patient_1142,89,Female,Thrissur,2023-05-28,2023-06-04,Fracture,Government
+P11143,Patient_1143,61,Female,Trivandrum,2024-02-24,2024-03-04,Fracture,Private
+P11144,Patient_1144,43,Female,Thrissur,2024-11-01,2024-11-09,Cancer,Government
+P11145,Patient_1145,42,Female,Kannur,2023-06-08,2023-06-09,Cancer,Government
+P11146,Patient_1146,25,Female,Kannur,2023-03-18,2023-03-24,Cancer,Government
+P11147,Patient_1147,39,Female,Kochi,2024-04-25,2024-05-02,Diabetes,Private
+P11148,Patient_1148,35,Female,Kozhikode,2023-09-29,2023-10-08,Diabetes,Government
+P11149,Patient_1149,3,Male,Thrissur,2023-12-13,2023-12-19,Stroke,Private
+P11150,Patient_1150,44,Female,Kochi,2024-09-30,2024-10-07,Diabetes,None
+P11151,Patient_1151,51,Female,Kozhikode,2024-02-12,2024-02-19,Cardiac Issue,Government
+P11152,Patient_1152,12,Female,Thrissur,2024-10-27,2024-10-30,Stroke,Private
+P11153,Patient_1153,19,Male,Trivandrum,2023-03-24,2023-03-29,Fracture,Government
+P11154,Patient_1154,44,Male,Kozhikode,2023-12-03,2023-12-10,Infection,None
+P11155,Patient_1155,59,Female,Kannur,2024-11-21,2024-11-24,Cardiac Issue,Private
+P11156,Patient_1156,49,Female,Kochi,2024-06-30,2024-07-09,Fracture,Private
+P11157,Patient_1157,61,Female,Kozhikode,2024-01-25,2024-02-02,Fracture,Private
+P11158,Patient_1158,17,Male,Kozhikode,2023-11-21,2023-11-25,Stroke,None
+P11159,Patient_1159,74,Male,Kannur,2024-10-03,2024-10-07,Cancer,None
+P11160,Patient_1160,57,Female,Thrissur,2024-05-14,2024-05-19,Cancer,None
+P11161,Patient_1161,55,Male,Trivandrum,2024-07-08,2024-07-11,Cardiac Issue,Private
+P11162,Patient_1162,47,Female,Kannur,2023-02-06,2023-02-14,Cancer,None
+P11163,Patient_1163,12,Male,Trivandrum,2024-09-24,2024-09-25,Fracture,Government
+P11164,Patient_1164,62,Male,Thrissur,2023-03-12,2023-03-21,Cancer,None
+P11165,Patient_1165,80,Female,Kozhikode,2023-08-29,2023-09-05,Diabetes,Private
+P11166,Patient_1166,88,Female,Trivandrum,2024-10-08,2024-10-15,Cancer,Government
+P11167,Patient_1167,83,Female,Kochi,2024-12-01,2024-12-10,Fracture,None
+P11168,Patient_1168,8,Female,Kochi,2023-10-22,2023-10-31,Stroke,Government
+P11169,Patient_1169,21,Male,Kannur,2023-08-21,2023-08-24,Cardiac Issue,Government
+P11170,Patient_1170,81,Male,Thrissur,2023-04-03,2023-04-10,Infection,Private
+P11171,Patient_1171,87,Male,Kannur,2024-03-20,2024-03-24,Cancer,Government
+P11172,Patient_1172,80,Female,Kannur,2023-04-11,2023-04-16,Fracture,Government
+P11173,Patient_1173,70,Male,Kannur,2024-10-10,2024-10-14,Infection,Private
+P11174,Patient_1174,72,Female,Kochi,2023-04-13,2023-04-19,Infection,Private
+P11175,Patient_1175,25,Male,Kochi,2024-03-30,2024-04-01,Diabetes,Private
+P11176,Patient_1176,82,Female,Kannur,2023-06-20,2023-06-28,Infection,Government
+P11177,Patient_1177,89,Female,Kochi,2023-11-03,2023-11-09,Stroke,Government
+P11178,Patient_1178,12,Male,Thrissur,2023-01-30,2023-02-01,Fracture,Government
+P11179,Patient_1179,15,Female,Kannur,2023-02-17,2023-02-26,Fracture,Private
+P11180,Patient_1180,59,Female,Kochi,2023-11-29,2023-12-03,Cancer,None
+P11181,Patient_1181,26,Male,Trivandrum,2023-02-27,2023-02-28,Cancer,Government
+P11182,Patient_1182,26,Female,Kannur,2023-10-28,2023-11-02,Cancer,None
+P11183,Patient_1183,47,Female,Kannur,2024-01-03,2024-01-10,Stroke,Private
+P11184,Patient_1184,32,Female,Thrissur,2024-01-19,2024-01-29,Infection,Government
+P11185,Patient_1185,10,Male,Kozhikode,2024-03-17,2024-03-27,Infection,None
+P11186,Patient_1186,16,Male,Kozhikode,2023-05-30,2023-05-31,Diabetes,Government
+P11187,Patient_1187,71,Female,Thrissur,2023-09-08,2023-09-10,Stroke,Government
+P11188,Patient_1188,17,Male,Thrissur,2024-06-27,2024-07-01,Cancer,Government
+P11189,Patient_1189,23,Female,Thrissur,2024-02-26,2024-03-07,Cardiac Issue,None
+P11190,Patient_1190,26,Female,Kozhikode,2024-08-02,2024-08-11,Diabetes,Private
+P11191,Patient_1191,85,Female,Thrissur,2024-11-29,2024-12-03,Cardiac Issue,Government
+P11192,Patient_1192,86,Female,Kochi,2023-07-04,2023-07-12,Infection,Private
+P11193,Patient_1193,7,Female,Kannur,2023-06-24,2023-06-28,Diabetes,Private
+P11194,Patient_1194,14,Male,Kannur,2023-06-29,2023-07-05,Diabetes,None
+P11195,Patient_1195,79,Female,Trivandrum,2023-03-22,2023-03-27,Fracture,None
+P11196,Patient_1196,7,Male,Trivandrum,2024-09-16,2024-09-17,Infection,Private
+P11197,Patient_1197,9,Male,Kannur,2024-01-27,2024-01-31,Infection,Government
+P11198,Patient_1198,48,Female,Kochi,2024-09-26,2024-09-30,Stroke,None
+P11199,Patient_1199,72,Female,Kozhikode,2024-11-30,2024-12-02,Diabetes,Government
+P11200,Patient_1200,59,Male,Kozhikode,2023-09-04,2023-09-12,Infection,Government
+P11201,Patient_1201,87,Male,Kochi,2024-05-24,2024-05-28,Diabetes,Government
+P11202,Patient_1202,82,Male,Kozhikode,2024-08-20,2024-08-30,Stroke,Private
+P11203,Patient_1203,39,Female,Thrissur,2023-05-27,2023-05-31,Stroke,Government
+P11204,Patient_1204,18,Male,Kannur,2023-08-26,2023-09-02,Fracture,Private
+P11205,Patient_1205,59,Female,Kannur,2024-04-17,2024-04-21,Diabetes,Private
+P11206,Patient_1206,17,Female,Kochi,2024-10-15,2024-10-24,Infection,Government
+P11207,Patient_1207,14,Female,Kozhikode,2023-09-18,2023-09-24,Infection,Government
+P11208,Patient_1208,31,Male,Trivandrum,2024-04-15,2024-04-20,Diabetes,Government
+P11209,Patient_1209,24,Female,Trivandrum,2023-09-19,2023-09-26,Diabetes,Government
+P11210,Patient_1210,60,Female,Kozhikode,2024-11-13,2024-11-21,Diabetes,Private
+P11211,Patient_1211,45,Female,Trivandrum,2023-01-10,2023-01-19,Cancer,Government
+P11212,Patient_1212,3,Female,Kochi,2024-04-21,2024-04-27,Infection,Government
+P11213,Patient_1213,37,Female,Kochi,2023-10-22,2023-10-27,Stroke,Private
+P11214,Patient_1214,43,Male,Kozhikode,2024-11-24,2024-11-29,Infection,None
+P11215,Patient_1215,40,Female,Trivandrum,2024-07-13,2024-07-19,Cancer,None
+P11216,Patient_1216,55,Female,Kochi,2023-06-11,2023-06-20,Diabetes,Private
+P11217,Patient_1217,87,Male,Kochi,2023-03-17,2023-03-25,Fracture,None
+P11218,Patient_1218,39,Female,Thrissur,2024-03-28,2024-04-05,Diabetes,Private
+P11219,Patient_1219,15,Male,Thrissur,2023-12-20,2023-12-22,Diabetes,Government
+P11220,Patient_1220,4,Female,Kochi,2024-08-24,2024-09-01,Cancer,Government
+P11221,Patient_1221,86,Male,Kozhikode,2023-11-03,2023-11-09,Infection,None
+P11222,Patient_1222,25,Male,Kannur,2024-10-16,2024-10-20,Diabetes,Government
+P11223,Patient_1223,13,Female,Kannur,2024-03-10,2024-03-16,Infection,None
+P11224,Patient_1224,82,Female,Kochi,2023-09-14,2023-09-20,Cardiac Issue,None
+P11225,Patient_1225,33,Female,Kochi,2024-04-12,2024-04-19,Stroke,Government
+P11226,Patient_1226,16,Male,Kochi,2023-11-06,2023-11-07,Infection,Government
+P11227,Patient_1227,42,Male,Kozhikode,2023-07-23,2023-08-02,Fracture,None
+P11228,Patient_1228,66,Male,Thrissur,2024-01-29,2024-02-02,Stroke,Government
+P11229,Patient_1229,55,Female,Kochi,2024-05-09,2024-05-12,Fracture,Private
+P11230,Patient_1230,42,Male,Kochi,2023-04-20,2023-04-21,Diabetes,Government
+P11231,Patient_1231,34,Male,Trivandrum,2023-08-31,2023-09-05,Stroke,Government
+P11232,Patient_1232,30,Female,Kozhikode,2024-01-26,2024-02-04,Infection,Private
+P11233,Patient_1233,13,Male,Kochi,2024-08-08,2024-08-18,Stroke,Government
+P11234,Patient_1234,13,Male,Trivandrum,2024-01-03,2024-01-13,Diabetes,Government
+P11235,Patient_1235,18,Female,Kannur,2024-08-11,2024-08-18,Cancer,None
+P11236,Patient_1236,32,Male,Kochi,2023-10-30,2023-11-04,Fracture,Government
+P11237,Patient_1237,39,Female,Kochi,2023-10-30,2023-11-02,Diabetes,Government
+P11238,Patient_1238,46,Female,Trivandrum,2023-01-23,2023-01-27,Cancer,Private
+P11239,Patient_1239,29,Female,Kozhikode,2024-11-05,2024-11-11,Stroke,None
+P11240,Patient_1240,62,Female,Kochi,2024-02-10,2024-02-14,Stroke,None
+P11241,Patient_1241,62,Female,Kannur,2023-10-09,2023-10-16,Diabetes,None
+P11242,Patient_1242,57,Male,Kochi,2023-01-09,2023-01-19,Infection,Government
+P11243,Patient_1243,16,Male,Kannur,2024-08-02,2024-08-06,Stroke,None
+P11244,Patient_1244,56,Female,Thrissur,2023-02-20,2023-02-28,Infection,Private
+P11245,Patient_1245,10,Female,Thrissur,2024-09-12,2024-09-21,Infection,None
+P11246,Patient_1246,30,Male,Kannur,2024-05-23,2024-05-29,Infection,Private
+P11247,Patient_1247,25,Female,Kozhikode,2023-10-21,2023-10-26,Cardiac Issue,None
+P11248,Patient_1248,84,Female,Kochi,2023-08-24,2023-09-01,Cancer,None
+P11249,Patient_1249,5,Female,Kochi,2024-09-13,2024-09-21,Cancer,Private
+P11250,Patient_1250,65,Male,Thrissur,2023-12-27,2024-01-04,Stroke,None
+P11251,Patient_1251,49,Male,Kannur,2023-08-13,2023-08-16,Stroke,None
+P11252,Patient_1252,3,Female,Kochi,2024-10-13,2024-10-19,Infection,None
+P11253,Patient_1253,45,Female,Kochi,2023-07-14,2023-07-17,Cardiac Issue,Government
+P11254,Patient_1254,14,Male,Kozhikode,2024-09-27,2024-09-30,Infection,Private
+P11255,Patient_1255,30,Male,Trivandrum,2023-09-14,2023-09-23,Cardiac Issue,None
+P11256,Patient_1256,68,Female,Thrissur,2024-11-25,2024-12-03,Infection,Private
+P11257,Patient_1257,18,Female,Thrissur,2024-11-06,2024-11-09,Fracture,Private
+P11258,Patient_1258,62,Male,Trivandrum,2024-11-28,2024-12-07,Fracture,Private
+P11259,Patient_1259,37,Male,Kochi,2023-05-21,2023-05-22,Diabetes,None
+P11260,Patient_1260,25,Male,Kozhikode,2024-10-05,2024-10-14,Infection,None
+P11261,Patient_1261,48,Female,Kozhikode,2023-04-10,2023-04-11,Stroke,Private
+P11262,Patient_1262,65,Male,Thrissur,2024-10-04,2024-10-06,Cancer,Government
+P11263,Patient_1263,53,Female,Kozhikode,2024-10-23,2024-10-24,Diabetes,Private
+P11264,Patient_1264,79,Male,Trivandrum,2023-02-10,2023-02-11,Stroke,Government
+P11265,Patient_1265,73,Male,Kochi,2023-11-13,2023-11-20,Fracture,Private
+P11266,Patient_1266,15,Male,Trivandrum,2024-03-27,2024-03-30,Infection,Private
+P11267,Patient_1267,49,Male,Kannur,2023-02-04,2023-02-08,Diabetes,Private
+P11268,Patient_1268,88,Female,Thrissur,2024-08-16,2024-08-18,Infection,None
+P11269,Patient_1269,68,Female,Kozhikode,2024-01-09,2024-01-12,Fracture,Government
+P11270,Patient_1270,12,Male,Kannur,2023-05-15,2023-05-16,Diabetes,Government
+P11271,Patient_1271,59,Female,Kozhikode,2023-04-03,2023-04-07,Fracture,Private
+P11272,Patient_1272,37,Male,Kochi,2023-10-30,2023-11-08,Cardiac Issue,None
+P11273,Patient_1273,61,Male,Kochi,2023-12-01,2023-12-09,Fracture,None
+P11274,Patient_1274,43,Male,Kochi,2024-03-01,2024-03-07,Infection,Government
+P11275,Patient_1275,70,Male,Kozhikode,2023-06-29,2023-06-30,Cancer,None
+P11276,Patient_1276,39,Female,Kannur,2023-07-25,2023-08-04,Fracture,Government
+P11277,Patient_1277,56,Male,Kochi,2023-05-16,2023-05-26,Stroke,Government
+P11278,Patient_1278,63,Male,Kannur,2024-07-06,2024-07-14,Cancer,Government
+P11279,Patient_1279,46,Female,Kozhikode,2024-01-10,2024-01-18,Cardiac Issue,None
+P11280,Patient_1280,88,Male,Kannur,2024-06-27,2024-06-28,Diabetes,Government
+P11281,Patient_1281,11,Male,Kozhikode,2024-05-28,2024-05-29,Diabetes,Government
+P11282,Patient_1282,62,Male,Kozhikode,2023-10-07,2023-10-16,Cancer,Private
+P11283,Patient_1283,77,Female,Thrissur,2023-06-18,2023-06-27,Diabetes,Government
+P11284,Patient_1284,25,Male,Kozhikode,2023-09-21,2023-09-28,Fracture,Government
+P11285,Patient_1285,71,Female,Kozhikode,2024-05-08,2024-05-09,Cancer,Private
+P11286,Patient_1286,52,Male,Trivandrum,2023-10-30,2023-10-31,Infection,Private
+P11287,Patient_1287,4,Male,Kochi,2023-12-13,2023-12-22,Fracture,None
+P11288,Patient_1288,59,Female,Thrissur,2023-04-28,2023-05-03,Fracture,Government
+P11289,Patient_1289,72,Male,Thrissur,2024-04-24,2024-05-03,Fracture,None
+P11290,Patient_1290,20,Male,Thrissur,2023-03-19,2023-03-24,Infection,None
+P11291,Patient_1291,63,Female,Trivandrum,2023-05-25,2023-05-26,Cardiac Issue,Private
+P11292,Patient_1292,54,Female,Kozhikode,2023-08-20,2023-08-29,Stroke,None
+P11293,Patient_1293,74,Female,Kochi,2024-11-23,2024-11-30,Diabetes,Government
+P11294,Patient_1294,57,Female,Kannur,2024-11-21,2024-11-24,Cancer,Private
+P11295,Patient_1295,41,Female,Kozhikode,2024-02-11,2024-02-13,Cardiac Issue,Government
+P11296,Patient_1296,3,Male,Trivandrum,2024-07-24,2024-07-26,Cancer,Government
+P11297,Patient_1297,6,Female,Kozhikode,2024-01-10,2024-01-19,Diabetes,Private
+P11298,Patient_1298,5,Male,Kozhikode,2023-04-03,2023-04-06,Infection,Government
+P11299,Patient_1299,5,Male,Trivandrum,2024-02-09,2024-02-13,Fracture,Private
+P11300,Patient_1300,54,Male,Thrissur,2023-01-15,2023-01-19,Fracture,Government
+P11301,Patient_1301,47,Female,Thrissur,2023-09-28,2023-10-08,Infection,Private
+P11302,Patient_1302,87,Female,Kochi,2024-07-03,2024-07-12,Cardiac Issue,None
+P11303,Patient_1303,49,Male,Kochi,2023-05-07,2023-05-12,Cardiac Issue,Government
+P11304,Patient_1304,9,Female,Thrissur,2024-04-10,2024-04-16,Cancer,Private
+P11305,Patient_1305,20,Female,Kannur,2024-01-13,2024-01-18,Infection,Government
+P11306,Patient_1306,61,Female,Kozhikode,2024-11-19,2024-11-26,Cardiac Issue,Government
+P11307,Patient_1307,35,Female,Kannur,2024-11-19,2024-11-21,Infection,Government
+P11308,Patient_1308,50,Male,Kozhikode,2023-09-26,2023-10-02,Diabetes,Private
+P11309,Patient_1309,82,Male,Thrissur,2024-08-21,2024-08-28,Fracture,None
+P11310,Patient_1310,62,Female,Kochi,2024-01-26,2024-02-03,Fracture,None
+P11311,Patient_1311,17,Male,Kochi,2024-10-15,2024-10-25,Fracture,None
+P11312,Patient_1312,88,Female,Kannur,2024-01-16,2024-01-20,Infection,Private
+P11313,Patient_1313,3,Female,Kochi,2023-04-21,2023-04-25,Infection,None
+P11314,Patient_1314,32,Male,Thrissur,2024-11-22,2024-11-27,Cancer,Private
+P11315,Patient_1315,13,Male,Kannur,2023-08-28,2023-08-30,Fracture,Government
+P11316,Patient_1316,89,Male,Kozhikode,2024-04-27,2024-04-28,Cancer,Government
+P11317,Patient_1317,73,Female,Kochi,2023-01-26,2023-01-28,Fracture,None
+P11318,Patient_1318,68,Male,Trivandrum,2024-09-26,2024-10-03,Cancer,Private
+P11319,Patient_1319,14,Female,Kochi,2024-07-28,2024-08-04,Cancer,Government
+P11320,Patient_1320,11,Male,Kozhikode,2023-12-02,2023-12-09,Diabetes,Private
+P11321,Patient_1321,56,Male,Kannur,2024-09-16,2024-09-25,Cancer,Private
+P11322,Patient_1322,67,Female,Kozhikode,2023-08-15,2023-08-23,Infection,Government
+P11323,Patient_1323,29,Female,Trivandrum,2024-10-25,2024-10-26,Cancer,Private
+P11324,Patient_1324,9,Female,Thrissur,2023-03-06,2023-03-07,Fracture,Government
+P11325,Patient_1325,67,Female,Kochi,2024-10-12,2024-10-15,Cancer,Government
+P11326,Patient_1326,25,Female,Kannur,2024-04-20,2024-04-22,Cardiac Issue,Government
+P11327,Patient_1327,76,Female,Thrissur,2023-11-06,2023-11-14,Stroke,Private
+P11328,Patient_1328,42,Female,Kozhikode,2024-10-26,2024-11-02,Fracture,Government
+P11329,Patient_1329,9,Female,Kannur,2024-02-23,2024-02-29,Cardiac Issue,Private
+P11330,Patient_1330,79,Male,Thrissur,2023-04-30,2023-05-10,Fracture,Government
+P11331,Patient_1331,40,Female,Kannur,2023-05-24,2023-05-26,Infection,Government
+P11332,Patient_1332,25,Female,Trivandrum,2023-02-16,2023-02-25,Stroke,None
+P11333,Patient_1333,5,Male,Trivandrum,2023-02-08,2023-02-09,Stroke,None
+P11334,Patient_1334,11,Female,Kochi,2023-11-08,2023-11-12,Infection,None
+P11335,Patient_1335,59,Male,Kochi,2024-05-19,2024-05-23,Stroke,Private
+P11336,Patient_1336,88,Male,Trivandrum,2023-04-29,2023-05-09,Infection,Private
+P11337,Patient_1337,79,Female,Kannur,2023-04-10,2023-04-18,Cardiac Issue,Government
+P11338,Patient_1338,38,Male,Trivandrum,2023-08-29,2023-09-03,Diabetes,Government
+P11339,Patient_1339,72,Female,Kochi,2024-07-04,2024-07-05,Fracture,Government
+P11340,Patient_1340,5,Male,Trivandrum,2023-05-19,2023-05-21,Infection,Government
+P11341,Patient_1341,48,Male,Trivandrum,2024-02-02,2024-02-07,Fracture,Private
+P11342,Patient_1342,18,Male,Kannur,2024-04-09,2024-04-18,Cardiac Issue,Government
+P11343,Patient_1343,70,Female,Thrissur,2024-01-15,2024-01-25,Diabetes,Government
+P11344,Patient_1344,37,Female,Kochi,2024-11-17,2024-11-18,Cardiac Issue,None
+P11345,Patient_1345,60,Male,Kannur,2024-07-07,2024-07-10,Stroke,Government
+P11346,Patient_1346,48,Male,Trivandrum,2024-03-05,2024-03-11,Fracture,Government
+P11347,Patient_1347,77,Female,Trivandrum,2024-08-24,2024-08-25,Diabetes,Government
+P11348,Patient_1348,28,Female,Thrissur,2023-06-08,2023-06-12,Stroke,Private
+P11349,Patient_1349,69,Male,Kochi,2024-02-29,2024-03-10,Diabetes,None
+P11350,Patient_1350,77,Male,Kochi,2024-11-01,2024-11-04,Stroke,Government
+P11351,Patient_1351,81,Female,Kozhikode,2023-04-12,2023-04-19,Cardiac Issue,Government
+P11352,Patient_1352,40,Female,Kochi,2024-05-16,2024-05-18,Infection,None
+P11353,Patient_1353,45,Female,Thrissur,2024-09-22,2024-09-27,Fracture,Government
+P11354,Patient_1354,62,Female,Kozhikode,2024-02-22,2024-02-25,Cancer,Private
+P11355,Patient_1355,58,Female,Kozhikode,2023-10-14,2023-10-24,Cancer,Government
+P11356,Patient_1356,67,Male,Trivandrum,2023-02-03,2023-02-07,Cardiac Issue,Private
+P11357,Patient_1357,56,Female,Trivandrum,2024-01-15,2024-01-25,Fracture,Private
+P11358,Patient_1358,40,Male,Kochi,2023-08-11,2023-08-18,Fracture,Government
+P11359,Patient_1359,40,Female,Kozhikode,2024-03-30,2024-04-08,Cardiac Issue,None
+P11360,Patient_1360,77,Male,Trivandrum,2024-03-31,2024-04-06,Fracture,Private
+P11361,Patient_1361,33,Female,Thrissur,2023-08-30,2023-09-06,Infection,None
+P11362,Patient_1362,6,Female,Trivandrum,2024-01-07,2024-01-10,Cardiac Issue,Government
+P11363,Patient_1363,88,Male,Trivandrum,2023-04-12,2023-04-14,Infection,Private
+P11364,Patient_1364,19,Male,Kozhikode,2024-01-12,2024-01-21,Fracture,Government
+P11365,Patient_1365,80,Female,Kozhikode,2024-07-11,2024-07-17,Cardiac Issue,None
+P11366,Patient_1366,40,Female,Kannur,2024-10-22,2024-10-23,Fracture,Government
+P11367,Patient_1367,59,Female,Thrissur,2024-01-03,2024-01-05,Cardiac Issue,Government
+P11368,Patient_1368,59,Female,Kozhikode,2023-03-04,2023-03-11,Fracture,Private
+P11369,Patient_1369,48,Female,Kochi,2024-02-12,2024-02-16,Infection,Government
+P11370,Patient_1370,41,Male,Thrissur,2023-10-10,2023-10-12,Infection,Government
+P11371,Patient_1371,13,Male,Thrissur,2023-07-14,2023-07-20,Fracture,Government
+P11372,Patient_1372,45,Female,Kozhikode,2023-05-06,2023-05-16,Cardiac Issue,Private
+P11373,Patient_1373,89,Male,Thrissur,2024-04-10,2024-04-20,Cancer,None
+P11374,Patient_1374,53,Male,Kozhikode,2023-04-04,2023-04-14,Infection,None
+P11375,Patient_1375,42,Male,Trivandrum,2024-11-09,2024-11-16,Infection,Government
+P11376,Patient_1376,63,Female,Kannur,2023-08-06,2023-08-12,Stroke,Private
+P11377,Patient_1377,27,Male,Trivandrum,2024-10-19,2024-10-20,Cancer,Government
+P11378,Patient_1378,38,Female,Kozhikode,2024-10-16,2024-10-21,Fracture,None
+P11379,Patient_1379,60,Male,Kozhikode,2024-09-03,2024-09-11,Cardiac Issue,Private
+P11380,Patient_1380,7,Female,Trivandrum,2023-01-22,2023-01-30,Stroke,None
+P11381,Patient_1381,5,Male,Kochi,2023-02-21,2023-02-25,Fracture,None
+P11382,Patient_1382,45,Female,Kochi,2023-12-08,2023-12-14,Diabetes,Private
+P11383,Patient_1383,58,Female,Kochi,2023-09-07,2023-09-16,Infection,Private
+P11384,Patient_1384,31,Male,Kozhikode,2023-05-09,2023-05-16,Diabetes,Government
+P11385,Patient_1385,23,Female,Thrissur,2024-08-01,2024-08-08,Infection,Government
+P11386,Patient_1386,42,Female,Kozhikode,2023-07-30,2023-08-02,Infection,None
+P11387,Patient_1387,10,Female,Thrissur,2023-03-12,2023-03-22,Diabetes,Private
+P11388,Patient_1388,32,Female,Trivandrum,2024-07-21,2024-07-28,Diabetes,Private
+P11389,Patient_1389,53,Female,Kannur,2023-08-01,2023-08-03,Fracture,Government
+P11390,Patient_1390,30,Female,Thrissur,2024-08-23,2024-09-02,Stroke,None
+P11391,Patient_1391,39,Female,Kochi,2023-08-10,2023-08-15,Stroke,None
+P11392,Patient_1392,31,Female,Kozhikode,2023-08-27,2023-08-31,Diabetes,Government
+P11393,Patient_1393,82,Male,Trivandrum,2023-12-03,2023-12-05,Fracture,Private
+P11394,Patient_1394,2,Male,Kochi,2023-06-01,2023-06-03,Stroke,Government
+P11395,Patient_1395,78,Female,Trivandrum,2024-09-02,2024-09-07,Fracture,Government
+P11396,Patient_1396,77,Female,Kannur,2023-01-03,2023-01-06,Fracture,Government
+P11397,Patient_1397,12,Male,Kozhikode,2023-10-11,2023-10-18,Infection,Government
+P11398,Patient_1398,39,Male,Kozhikode,2023-05-29,2023-06-01,Stroke,Private
+P11399,Patient_1399,66,Male,Kannur,2023-05-14,2023-05-21,Stroke,Government
+P11400,Patient_1400,13,Female,Kozhikode,2024-07-07,2024-07-13,Infection,Private
+P11401,Patient_1401,46,Male,Thrissur,2023-09-14,2023-09-20,Diabetes,Government
+P11402,Patient_1402,27,Female,Trivandrum,2023-06-28,2023-06-30,Infection,None
+P11403,Patient_1403,17,Female,Kochi,2023-04-23,2023-04-25,Stroke,Private
+P11404,Patient_1404,60,Male,Kannur,2024-11-07,2024-11-08,Stroke,None
+P11405,Patient_1405,64,Female,Thrissur,2023-01-27,2023-02-01,Diabetes,Government
+P11406,Patient_1406,88,Female,Kochi,2023-05-15,2023-05-23,Infection,Government
+P11407,Patient_1407,35,Female,Kochi,2023-01-16,2023-01-22,Cardiac Issue,Government
+P11408,Patient_1408,70,Female,Kannur,2024-01-02,2024-01-07,Cardiac Issue,Private
+P11409,Patient_1409,83,Male,Thrissur,2023-09-01,2023-09-03,Diabetes,None
+P11410,Patient_1410,30,Male,Kochi,2024-08-25,2024-08-28,Infection,Private
+P11411,Patient_1411,71,Female,Kochi,2023-11-28,2023-11-30,Infection,Private
+P11412,Patient_1412,74,Female,Thrissur,2023-01-17,2023-01-20,Fracture,Government
+P11413,Patient_1413,63,Male,Kozhikode,2023-06-28,2023-07-05,Stroke,None
+P11414,Patient_1414,28,Female,Kochi,2023-09-29,2023-10-07,Cancer,Government
+P11415,Patient_1415,60,Male,Trivandrum,2023-02-23,2023-03-04,Diabetes,Private
+P11416,Patient_1416,79,Female,Thrissur,2023-05-10,2023-05-19,Cancer,Government
+P11417,Patient_1417,37,Female,Kochi,2024-03-07,2024-03-16,Cancer,None
+P11418,Patient_1418,22,Male,Kannur,2024-06-22,2024-06-29,Diabetes,Government
+P11419,Patient_1419,68,Male,Trivandrum,2023-04-27,2023-04-29,Infection,None
+P11420,Patient_1420,20,Male,Kochi,2023-03-07,2023-03-08,Diabetes,None
+P11421,Patient_1421,68,Male,Trivandrum,2024-05-02,2024-05-04,Cancer,Government
+P11422,Patient_1422,64,Female,Trivandrum,2024-04-04,2024-04-10,Stroke,Private
+P11423,Patient_1423,17,Male,Kozhikode,2024-01-06,2024-01-15,Stroke,Government
+P11424,Patient_1424,12,Female,Trivandrum,2024-06-09,2024-06-11,Stroke,Private
+P11425,Patient_1425,22,Male,Kozhikode,2024-08-30,2024-09-09,Infection,Private
+P11426,Patient_1426,17,Male,Thrissur,2023-04-22,2023-05-02,Cardiac Issue,Government
+P11427,Patient_1427,10,Female,Kozhikode,2024-04-07,2024-04-13,Diabetes,Private
+P11428,Patient_1428,65,Male,Kannur,2024-05-30,2024-06-06,Stroke,Private
+P11429,Patient_1429,22,Male,Kochi,2023-08-15,2023-08-16,Diabetes,Government
+P11430,Patient_1430,82,Male,Thrissur,2024-09-21,2024-09-26,Stroke,Government
+P11431,Patient_1431,50,Male,Thrissur,2023-02-14,2023-02-21,Infection,Government
+P11432,Patient_1432,14,Female,Kannur,2024-11-05,2024-11-12,Cardiac Issue,Private
+P11433,Patient_1433,64,Female,Kozhikode,2024-06-17,2024-06-19,Cardiac Issue,None
+P11434,Patient_1434,47,Male,Kochi,2023-11-05,2023-11-14,Stroke,Private
+P11435,Patient_1435,29,Male,Kozhikode,2024-04-14,2024-04-18,Infection,None
+P11436,Patient_1436,76,Male,Trivandrum,2024-10-20,2024-10-30,Fracture,Government
+P11437,Patient_1437,36,Female,Kozhikode,2023-02-01,2023-02-10,Diabetes,None
+P11438,Patient_1438,52,Female,Thrissur,2023-03-04,2023-03-07,Diabetes,Government
+P11439,Patient_1439,76,Female,Kochi,2024-05-05,2024-05-12,Cancer,Government
+P11440,Patient_1440,7,Female,Kozhikode,2024-02-16,2024-02-19,Infection,None
+P11441,Patient_1441,29,Male,Kochi,2024-03-12,2024-03-15,Cancer,Government
+P11442,Patient_1442,11,Male,Kochi,2023-04-21,2023-04-26,Stroke,None
+P11443,Patient_1443,33,Male,Trivandrum,2024-05-17,2024-05-22,Cancer,Government
+P11444,Patient_1444,6,Female,Trivandrum,2024-03-30,2024-04-04,Cardiac Issue,Private
+P11445,Patient_1445,79,Male,Thrissur,2023-03-17,2023-03-25,Diabetes,Private
+P11446,Patient_1446,32,Female,Kannur,2023-03-24,2023-03-27,Cancer,Government
+P11447,Patient_1447,51,Female,Kochi,2023-11-26,2023-11-28,Cardiac Issue,Government
+P11448,Patient_1448,75,Male,Kannur,2024-09-14,2024-09-17,Infection,None
+P11449,Patient_1449,58,Male,Thrissur,2023-06-01,2023-06-08,Cancer,Private
+P11450,Patient_1450,87,Male,Kochi,2023-03-09,2023-03-14,Stroke,None
+P11451,Patient_1451,26,Female,Kochi,2023-05-10,2023-05-17,Stroke,Government
+P11452,Patient_1452,46,Female,Kannur,2023-10-09,2023-10-14,Stroke,Government
+P11453,Patient_1453,29,Male,Kozhikode,2024-10-01,2024-10-09,Diabetes,None
+P11454,Patient_1454,4,Male,Trivandrum,2024-10-10,2024-10-12,Cancer,Government
+P11455,Patient_1455,81,Female,Kozhikode,2024-08-22,2024-08-28,Infection,Private
+P11456,Patient_1456,13,Male,Kannur,2024-07-15,2024-07-20,Cancer,None
+P11457,Patient_1457,39,Female,Trivandrum,2023-11-29,2023-12-03,Diabetes,Private
+P11458,Patient_1458,15,Female,Kozhikode,2024-01-26,2024-02-03,Cardiac Issue,Private
+P11459,Patient_1459,29,Male,Trivandrum,2024-09-03,2024-09-13,Diabetes,Private
+P11460,Patient_1460,29,Male,Kochi,2024-06-27,2024-07-07,Stroke,None
+P11461,Patient_1461,75,Male,Kozhikode,2023-10-29,2023-11-02,Cardiac Issue,Government
+P11462,Patient_1462,32,Male,Trivandrum,2024-04-09,2024-04-17,Stroke,Private
+P11463,Patient_1463,2,Female,Trivandrum,2024-06-01,2024-06-03,Fracture,Private
+P11464,Patient_1464,47,Female,Trivandrum,2024-09-11,2024-09-14,Diabetes,Private
+P11465,Patient_1465,78,Female,Kozhikode,2024-03-16,2024-03-21,Diabetes,Government
+P11466,Patient_1466,84,Male,Thrissur,2023-04-12,2023-04-13,Infection,Government
+P11467,Patient_1467,22,Female,Kozhikode,2023-04-28,2023-05-05,Cancer,None
+P11468,Patient_1468,75,Male,Kannur,2024-11-01,2024-11-07,Cardiac Issue,Government
+P11469,Patient_1469,27,Male,Kozhikode,2024-10-28,2024-11-07,Cardiac Issue,None
+P11470,Patient_1470,67,Male,Trivandrum,2024-07-18,2024-07-25,Infection,None
+P11471,Patient_1471,81,Male,Kochi,2023-08-09,2023-08-15,Infection,None
+P11472,Patient_1472,56,Male,Kozhikode,2024-03-16,2024-03-24,Cancer,None
+P11473,Patient_1473,21,Male,Kozhikode,2024-04-07,2024-04-13,Stroke,None
+P11474,Patient_1474,47,Female,Trivandrum,2023-08-22,2023-08-29,Cancer,Private
+P11475,Patient_1475,80,Male,Kochi,2024-02-28,2024-03-09,Diabetes,Government
+P11476,Patient_1476,59,Female,Kochi,2023-12-14,2023-12-17,Stroke,Private
+P11477,Patient_1477,84,Female,Kannur,2024-04-09,2024-04-14,Fracture,None
+P11478,Patient_1478,6,Male,Kozhikode,2024-02-13,2024-02-19,Cancer,Government
+P11479,Patient_1479,19,Male,Kochi,2024-03-01,2024-03-11,Infection,Private
+P11480,Patient_1480,57,Male,Kochi,2023-04-08,2023-04-12,Stroke,Private
+P11481,Patient_1481,69,Female,Thrissur,2023-11-17,2023-11-25,Cancer,None
+P11482,Patient_1482,3,Male,Thrissur,2024-03-13,2024-03-19,Cardiac Issue,Private
+P11483,Patient_1483,1,Female,Kochi,2023-11-17,2023-11-20,Fracture,Private
+P11484,Patient_1484,58,Male,Kannur,2024-11-12,2024-11-19,Diabetes,Private
+P11485,Patient_1485,38,Male,Kochi,2023-09-19,2023-09-25,Cardiac Issue,Private
+P11486,Patient_1486,15,Female,Trivandrum,2024-01-19,2024-01-24,Cardiac Issue,Private
+P11487,Patient_1487,34,Female,Kozhikode,2023-06-06,2023-06-14,Fracture,None
+P11488,Patient_1488,61,Male,Kannur,2024-04-30,2024-05-10,Diabetes,None
+P11489,Patient_1489,35,Female,Trivandrum,2023-03-10,2023-03-14,Infection,Private
+P11490,Patient_1490,64,Female,Kannur,2023-04-04,2023-04-10,Stroke,None
+P11491,Patient_1491,25,Female,Trivandrum,2023-03-29,2023-04-05,Diabetes,None
+P11492,Patient_1492,24,Female,Kozhikode,2023-04-06,2023-04-11,Cancer,Government
+P11493,Patient_1493,12,Female,Kozhikode,2024-03-18,2024-03-25,Cardiac Issue,Private
+P11494,Patient_1494,18,Male,Thrissur,2023-04-09,2023-04-15,Cancer,None
+P11495,Patient_1495,15,Male,Trivandrum,2024-01-17,2024-01-19,Infection,None
+P11496,Patient_1496,80,Female,Thrissur,2023-05-14,2023-05-24,Cancer,Private
+P11497,Patient_1497,27,Male,Trivandrum,2024-07-23,2024-07-27,Diabetes,Government
+P11498,Patient_1498,72,Male,Thrissur,2023-03-03,2023-03-13,Cancer,Private
+P11499,Patient_1499,60,Female,Kozhikode,2024-08-23,2024-09-01,Infection,Government
